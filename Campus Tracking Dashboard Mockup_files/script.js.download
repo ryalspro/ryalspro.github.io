@@ -1,0 +1,174 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const mapButtons = document.querySelectorAll('.map-btn');
+    const mapPlans = document.querySelectorAll('.map-plan');
+    const deviceLinks = document.querySelectorAll('.device-link');
+    const studentInfos = document.querySelectorAll('.student-info');
+
+    // Updated coordinates for Georgia Tech campus
+    const studentData = {
+        'john-doe': { lat: 33.7756, lng: -84.3963, alert: 'Unusual movement detected', floor: 'floor3' },
+        'jane-smith': { lat: 33.7747, lng: -84.3973, alert: 'Unexpected presence', floor: 'floor3' },
+        'alex-johnson': { lat: 33.7765, lng: -84.3951, alert: 'Suspicious activity', floor: 'floor1' }
+    };
+
+    function initializeStudentMap(studentId, lat, lng, alertInfo) {
+        const mapId = `${studentId}-map`;
+        const mapElement = document.getElementById(mapId);
+        
+        if (mapElement._leaflet_id) {
+            mapElement._leaflet_id = null;
+        }
+
+        // Updated center coordinates and zoom level for Georgia Tech
+        const map = L.map(mapId).setView([33.7756, -84.3963], 15);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        const marker = L.marker([lat, lng]).addTo(map);
+        marker.bindPopup(`<b>Alert:</b> ${alertInfo}`).openPopup();
+    }
+
+    function updateSVGMap(floorId, studentId, x, y, alertInfo, isAnomaly) {
+        const markersGroup = document.getElementById(`${floorId}-markers`);
+        if (!markersGroup) return;
+
+        // Remove existing marker for this student if it exists
+        const existingMarker = document.getElementById(`marker-${studentId}`);
+        if (existingMarker) {
+            existingMarker.remove();
+        }
+
+        const marker = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+        marker.setAttribute("cx", x);
+        marker.setAttribute("cy", y);
+        marker.setAttribute("r", "5");
+        marker.setAttribute("fill", isAnomaly ? "red" : "blue");
+        marker.setAttribute("id", `marker-${studentId}`);
+        
+        const title = document.createElementNS("http://www.w3.org/2000/svg", "title");
+        title.textContent = `${studentId}: ${alertInfo}`;
+        marker.appendChild(title);
+
+        markersGroup.appendChild(marker);
+
+        // Add animation to the marker
+        animateMarker(marker, x, y, isAnomaly);
+    }
+
+    function animateMarker(marker, centerX, centerY, isAnomaly) {
+        const radius = isAnomaly ? 30 : 15; // Larger radius for anomalies
+        let angle = Math.random() * 2 * Math.PI; // Random starting angle
+        const speed = isAnomaly ? 0.05 : 0.03; // Faster movement for anomalies
+
+        function move() {
+            angle += speed;
+            const newX = centerX + radius * Math.cos(angle);
+            const newY = centerY + radius * Math.sin(angle);
+            
+            marker.setAttribute("cx", newX);
+            marker.setAttribute("cy", newY);
+
+            requestAnimationFrame(move);
+        }
+
+        move();
+    }
+
+    function showStudentInfo(studentId) {
+        studentInfos.forEach(info => {
+            info.style.display = info.id === studentId ? 'block' : 'none';
+        });
+
+        const { lat, lng, alert, floor } = studentData[studentId];
+        initializeStudentMap(studentId, lat, lng, alert);
+        updateCampusMap(studentId, lat, lng, alert, floor);
+    }
+
+    function updateCampusMap(studentId, lat, lng, alertInfo, floor) {
+        // Calculate x and y based on the floor plan dimensions
+        const x = Math.random() * 1000 + 100; // Random x coordinate between 100 and 1100
+        const y = Math.random() * 300 + 50;  // Random y coordinate between 50 and 350
+
+        const isAnomaly = alertInfo !== 'Normal';
+        updateSVGMap(floor, studentId, x, y, alertInfo, isAnomaly);
+
+        // Show the correct floor
+        mapButtons.forEach(btn => btn.classList.remove('active'));
+        document.querySelector(`[data-map="${floor}"]`).classList.add('active');
+        mapPlans.forEach(plan => {
+            plan.style.display = plan.id === floor ? 'block' : 'none';
+        });
+    }
+
+    // Set default student (John Doe) on page load
+    showStudentInfo('john-doe');
+
+    mapButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const map = this.getAttribute('data-map');
+            mapPlans.forEach(plan => {
+                if (plan.id === 'campus-overview') {
+                    plan.style.display = map === 'campus' ? 'block' : 'none';
+                } else {
+                    plan.style.display = plan.id === map ? 'block' : 'none';
+                }
+            });
+            mapButtons.forEach(btn => btn.classList.remove('active'));
+            this.classList.add('active');
+        });
+    });
+
+    // Handle clicking on device IDs
+    deviceLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            const studentId = this.getAttribute('data-student');
+            showStudentInfo(studentId);
+            
+            // Remove 'active' class from all links
+            deviceLinks.forEach(l => l.classList.remove('active'));
+            // Add 'active' class to clicked link
+            this.classList.add('active');
+        });
+    });
+
+    // Add this new function to create and animate all dots
+    function createAndAnimateAllDots() {
+        const floors = ['floor1', 'floor2', 'floor3'];
+        const numDotsPerFloor = 10; // Adjust this number as needed
+
+        floors.forEach(floor => {
+            for (let i = 0; i < numDotsPerFloor; i++) {
+                const x = Math.random() * 1000 + 100;
+                const y = Math.random() * 300 + 50;
+                const isAnomaly = Math.random() < 0.2; // 20% chance of being an anomaly
+                const studentId = `student-${floor}-${i}`;
+                const alertInfo = isAnomaly ? 'Anomaly detected' : 'Normal';
+                
+                updateSVGMap(floor, studentId, x, y, alertInfo, isAnomaly);
+            }
+        });
+    }
+
+    // Call the function to create and animate all dots
+    createAndAnimateAllDots();
+
+    // Modify the DOMContentLoaded event listener
+    document.addEventListener('DOMContentLoaded', function() {
+        // ... (previous code remains unchanged)
+
+        // Call the function to create and animate all dots
+        createAndAnimateAllDots();
+
+        // ... (rest of the code remains unchanged)
+    });
+
+    function contactStudent(studentId) {
+        // This function will be implemented later to initiate a mobile call
+        console.log(`Contacting student: ${studentId}`);
+        alert(`Contacting student: ${studentId}`);
+        // Here you would typically integrate with a mobile app or communication API
+    }
+});
