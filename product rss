@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Cannabis Dispensary Inventory Feed</title>
+  <link>https://example.com/inventory</link>
+  <description>Current inventory listing for cannabis products</description>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 29 Dec 2024 12:00:00 GMT</lastBuildDate>
+
+  <item>
+    <title>Blue Dream, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>FLW001</guid>
+    <description>Blue Dream flower, 3.5g package. Price: $45.00. In stock: 42 units. Expires: 2025-05-15</description>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Girl Scout Cookies, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW002</link>
+    <guid>FLW002</guid>
+    <description>Girl Scout Cookies flower, 3.5g package. Price: $52.80. In stock: 35 units. Expires: 2025-05-18</description>
+    <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>OG Kush, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW003</link>
+    <guid>FLW003</guid>
+    <description>OG Kush flower, 3.5g package. Price: $44.10. In stock: 28 units. Expires: 2025-05-20</description>
+    <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Purple Punch, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW004</link>
+    <guid>FLW004</guid>
+    <description>Purple Punch flower, 3.5g package. Price: $47.00. In stock: 31 units. Expires: 2025-05-22</description>
+    <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Sour Diesel, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW005</link>
+    <guid>FLW005</guid>
+    <description>Sour Diesel flower, 3.5g package. Price: $42.00. In stock: 45 units. Expires: 2025-05-25</description>
+    <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>Blue Dream Pre-Roll 1g</title>
+    <link>https://example.com/inventory/PRE001</link>
+    <guid>PRE001</guid>
+    <description>Blue Dream pre-rolled joint, 1g. Price: $10.80. In stock: 150 units. Expires: 2025-02-15</description>
+    <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
+  </item>
+
+  <!-- Additional items continued in same format... -->
+
+</channel>
+</rss>
