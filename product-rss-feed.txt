@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Product Inventory Feed</title>
+        <link>https://example.com/inventory</link>
+        <description>Current product inventory and details</description>
+        <language>en-US</language>
+        <lastBuildDate>Sun, 29 Dec 2024 20:08:31 +0000</lastBuildDate>
+        <generator>Inventory System 1.0</generator>
+
+        <item>
+            <title>Blue Dream, Flower 3.5g</title>
+            <link>https://example.com/product/FLW001</link>
+            <guid>FLW001</guid>
+            <description>Premium Blue Dream flower, 3.5g quantity. Price: $45.00</description>
+            <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                SKU: FLW001
+                Cost: $22.50
+                Price: $45.00
+                Expiration Date: 2025-05-15
+                Quantity in Stock: 42
+                Profit Margin: 50%
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Girl Scout Cookies, Flower 3.5g</title>
+            <link>https://example.com/product/FLW002</link>
+            <guid>FLW002</guid>
+            <description>Premium Girl Scout Cookies flower, 3.5g quantity. Price: $52.80</description>
+            <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                SKU: FLW002
+                Cost: $24.00
+                Price: $52.80
+                Expiration Date: 2025-05-18
+                Quantity in Stock: 35
+                Profit Margin: 54.55%
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>OG Kush, Flower 3.5g</title>
+            <link>https://example.com/product/FLW003</link>
+            <guid>FLW003</guid>
+            <description>Premium OG Kush flower, 3.5g quantity. Price: $44.10</description>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                SKU: FLW003
+                Cost: $21.00
+                Price: $44.10
+                Expiration Date: 2025-05-20
+                Quantity in Stock: 28
+                Profit Margin: 52.38%
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Indica Vape Cart 0.5g</title>
+            <link>https://example.com/product/VPE001</link>
+            <guid>VPE001</guid>
+            <description>Indica Vape Cartridge, 0.5g quantity. Price: $43.75</description>
+            <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                SKU: VPE001
+                Cost: $17.50
+                Price: $43.75
+                Expiration Date: 2025-11-15
+                Quantity in Stock: 62
+                Profit Margin: 60%
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>Gummies 100mg THC</title>
+            <link>https://example.com/product/EDI001</link>
+            <guid>EDI001</guid>
+            <description>THC Gummies, 100mg total content. Price: $31.25</description>
+            <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                SKU: EDI001
+                Cost: $12.50
+                Price: $31.25
+                Expiration Date: 2025-05-15
+                Quantity in Stock: 85
+                Profit Margin: 60%
+            ]]></content:encoded>
+        </item>
+
+        <item>
+            <title>CBD Oil Tincture 1000mg</title>
+            <link>https://example.com/product/CBD001</link>
+            <guid>CBD001</guid>
+            <description>CBD Oil Tincture, 1000mg strength. Price: $62.50</description>
+            <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+            <content:encoded><![CDATA[
+                SKU: CBD001
+                Cost: $25.00
+                Price: $62.50
+                Expiration Date: 2025-11-15
+                Quantity in Stock: 32
+                Profit Margin: 60%
+            ]]></content:encoded>
+        </item>
+    </channel>
+</rss>
