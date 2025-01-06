@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Cannabis Dispensary Inventory Feed</title>
+  <link>https://example.com/inventory</link>
+  <description>Complete inventory listing for cannabis products</description>
+  <language>en-us</language>
+  <lastBuildDate>2025-01-06T13:30:25.935-05:00</lastBuildDate>
+
+  <item>
+    <mediaId>112320</mediaId>
+    <title>Apple Fritter Pre-Roll 1g</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>PRE011</guid>
+    <sku>PRE011</sku>
+    <description>Apple Fritter Pre-Roll 1g</description>
+    <cost>4.75</cost>
+    <price>11.4</price>
+    <purchaseDate>5.6.2053</purchaseDate>
+    <expirationDate>9.5.2054</expirationDate>
+    <quantityInStock>72</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>High profit margin and good stock levels, nearing mid-range of shelf life</Primary>
+    <Financial>Significant revenue potential with a 58.33% profit margin.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112238</mediaId>
+    <title>Blue Dream Pre-Roll 1g</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>PRE001</guid>
+    <sku>PRE001</sku>
+    <description>Blue Dream Pre-Roll 1g</description>
+    <cost>4.5</cost>
+    <price>10.8</price>
+    <purchaseDate>5.6.2054</purchaseDate>
+    <expirationDate>9.5.2055</expirationDate>
+    <quantityInStock>150</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>High stock and high profit margin</Primary>
+    <Financial>High potential revenue due to large stock and high profit margin.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112270</mediaId>
+    <title>CBD Bath Bombs 100mg</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD005</guid>
+    <sku>CBD005</sku>
+    <description>CBD Bath Bombs 100mg</description>
+    <cost>12.5</cost>
+    <price>30</price>
+    <purchaseDate>5.6.2055</purchaseDate>
+    <expirationDate>9.5.2056</expirationDate>
+    <quantityInStock>55</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin and moderate stock levels</Primary>
+    <Financial>Steady revenue contribution</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112250</mediaId>
+    <title>CBD Capsules 30ct</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD002</guid>
+    <sku>CBD002</sku>
+    <description>CBD Capsules 30ct</description>
+    <cost>20</cost>
+    <price>48</price>
+    <purchaseDate>5.6.2056</purchaseDate>
+    <expirationDate>9.5.2057</expirationDate>
+    <quantityInStock>45</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin and moderate stock.</Primary>
+    <Financial>Contributes to steady revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112287</mediaId>
+    <title>CBD Face Cream 250mg</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD007</guid>
+    <sku>CBD007</sku>
+    <description>CBD Face Cream 250mg</description>
+    <cost>17.5</cost>
+    <price>42</price>
+    <purchaseDate>5.6.2057</purchaseDate>
+    <expirationDate>9.5.2058</expirationDate>
+    <quantityInStock>48</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin with moderate stock levels</Primary>
+    <Financial>Supports consistent revenue goals</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112281</mediaId>
+    <title>CBD Honey Sticks 10ct</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD010</guid>
+    <sku>CBD010</sku>
+    <description>CBD Honey Sticks 10ct</description>
+    <cost>10</cost>
+    <price>24</price>
+    <purchaseDate>5.6.2058</purchaseDate>
+    <expirationDate>9.5.2059</expirationDate>
+    <quantityInStock>72</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin, moderate stock</Primary>
+    <Financial>Consistent contribution to revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112321</mediaId>
+    <title>CBD Lip Balm 50mg</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD011</guid>
+    <sku>CBD011</sku>
+    <description>CBD Lip Balm 50mg</description>
+    <cost>7.5</cost>
+    <price>18</price>
+    <purchaseDate>5.6.2059</purchaseDate>
+    <expirationDate>9.5.2060</expirationDate>
+    <quantityInStock>85</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin with decent stock levels</Primary>
+    <Financial>Supports consistent sales</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112286</mediaId>
+    <title>CBD Massage Oil 500mg</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD006</guid>
+    <sku>CBD006</sku>
+    <description>CBD Massage Oil 500mg</description>
+    <cost>20</cost>
+    <price>48</price>
+    <purchaseDate>5.6.2060</purchaseDate>
+    <expirationDate>9.5.2061</expirationDate>
+    <quantityInStock>35</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margins and moderate stock levels</Primary>
+    <Financial>Contributes to overall revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112269</mediaId>
+    <title>CBD Pet Treats 30ct</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD004</guid>
+    <sku>CBD004</sku>
+    <description>CBD Pet Treats 30ct</description>
+    <cost>15</cost>
+    <price>36</price>
+    <purchaseDate>5.6.2061</purchaseDate>
+    <expirationDate>9.5.2062</expirationDate>
+    <quantityInStock>42</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin and moderate stock</Primary>
+    <Financial>Supports consistent revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112304</mediaId>
+    <title>CBD Roll-On 250mg</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD009</guid>
+    <sku>CBD009</sku>
+    <description>CBD Roll-On 250mg</description>
+    <cost>15</cost>
+    <price>36</price>
+    <purchaseDate>5.6.2062</purchaseDate>
+    <expirationDate>9.5.2063</expirationDate>
+    <quantityInStock>52</quantityInStock>
+    <profitMargin>58.33</profitMargin>
+    <Primary>Good profit margin and moderate stock levels</Primary>
+    <Financial>Contributes to overall revenue goals</Financial>
+   
+  </item>
+<item>
+     <mediaId>112234</mediaId>
+     <title>Girl Scout Cookies, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW002</link>
+    <guid>FLW002</guid>
+    <sku>FLW002</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>24.00</cost>
+    <price>52.80</price>
+    <purchaseDate>2024-11-18</purchaseDate>
+    <expirationDate>2025-05-18</expirationDate>
+    <quantityInStock>35</quantityInStock>
+    <profitMargin>54.55</profitMargin>
+   
+    
+  </item>
+
+  <item>
+     <mediaId>112235</mediaId>
+    <title>OG Kush, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW003</link>
+    <guid>FLW003</guid>
+    <sku>FLW003</sku>
+    <description>OG Kush, Flower 3.5g</description>
+    <cost>21.00</cost>
+    <price>44.10</price>
+    <purchaseDate>2024-11-20</purchaseDate>
+    <expirationDate>2025-05-20</expirationDate>
+    <quantityInStock>28</quantityInStock>
+    <profitMargin>52.38</profitMargin>
+   
+    
+  </item>
+
+  <!-- Continue for all products in the same format -->
+  
+  <item>
+     <mediaId>112325</mediaId>
+    <title>Hemp Wick</title>
+    <link>https://example.com/inventory/ACC011</link>
+    <guid>ACC011</guid>
+    <sku>ACC011</sku>
+    <description>Hemp Wick</description>
+    <cost>2.00</cost>
+    <price>6.00</price>
+    <purchaseDate>2024-12-10</purchaseDate>
+    <expirationDate>null</expirationDate>
+    <quantityInStock>85</quantityInStock>
+    <profitMargin>66.67</profitMargin>
+   
+  
+  </item>
+
+</channel>
+</rss>
