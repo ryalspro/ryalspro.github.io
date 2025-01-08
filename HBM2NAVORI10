@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Cannabis Dispensary Inventory Feed</title>
+  <link>https://example.com/inventory</link>
+  <description>Complete inventory listing for cannabis products</description>
+  <language>en-us</language>
+  <lastBuildDate>2025-01-08T09:26:18.019-05:00</lastBuildDate>
+
+  <item>
+    <mediaId></mediaId>
+    <title>Organic Matcha Powder</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU4920</guid>
+    <sku>SKU4920</sku>
+    <description>Organic Matcha Powder</description>
+    <cost>6.7</cost>
+    <price>13.99</price>
+    <purchaseDate>2024-11-18</purchaseDate>
+    <expirationDate>2025-07-08</expirationDate>
+    <quantityInStock>670</quantityInStock>
+    <profitMargin>0.52</profitMargin>
+    <Primary>High profit margin and substantial stock</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Gourmet Coffee Beans</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU2345</guid>
+    <sku>SKU2345</sku>
+    <description>Gourmet Coffee Beans</description>
+    <cost>9.5</cost>
+    <price>19.99</price>
+    <purchaseDate>2024-12-01</purchaseDate>
+    <expirationDate>2025-06-15</expirationDate>
+    <quantityInStock>750</quantityInStock>
+    <profitMargin>0.52</profitMargin>
+    <Primary>High profit margin and substantial stock</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Artisanal Dark Chocolate Bar</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU9876</guid>
+    <sku>SKU9876</sku>
+    <description>Artisanal Dark Chocolate Bar</description>
+    <cost>4.8</cost>
+    <price>9.99</price>
+    <purchaseDate>2024-11-25</purchaseDate>
+    <expirationDate>2025-08-20</expirationDate>
+    <quantityInStock>800</quantityInStock>
+    <profitMargin>0.52</profitMargin>
+    <Primary>High profit margin and substantial stock</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Luxury Bath Bombs</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU1029</guid>
+    <sku>SKU1029</sku>
+    <description>Luxury Bath Bombs</description>
+    <cost>3.2</cost>
+    <price>7.99</price>
+    <purchaseDate>2024-11-15</purchaseDate>
+    <expirationDate>2025-05-10</expirationDate>
+    <quantityInStock>500</quantityInStock>
+    <profitMargin>0.6</profitMargin>
+    <Primary>Very high profit margin and good stock level</Primary>
+    <Financial>Maximize profit potential</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Essential Oil Diffuser</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU7654</guid>
+    <sku>SKU7654</sku>
+    <description>Essential Oil Diffuser</description>
+    <cost>12</cost>
+    <price>29.99</price>
+    <purchaseDate>2024-12-10</purchaseDate>
+    <expirationDate>2026-01-01</expirationDate>
+    <quantityInStock>600</quantityInStock>
+    <profitMargin>0.6</profitMargin>
+    <Primary>High profit margin and substantial stock</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Herbal Tea Variety Pack</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU5432</guid>
+    <sku>SKU5432</sku>
+    <description>Herbal Tea Variety Pack</description>
+    <cost>7</cost>
+    <price>15.99</price>
+    <purchaseDate>2024-11-01</purchaseDate>
+    <expirationDate>2025-04-30</expirationDate>
+    <quantityInStock>400</quantityInStock>
+    <profitMargin>0.56</profitMargin>
+    <Primary>Approaching expiration date and good profit margin</Primary>
+    <Financial>Prevent loss from expired inventory</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Natural Honey Jar</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU6789</guid>
+    <sku>SKU6789</sku>
+    <description>Natural Honey Jar</description>
+    <cost>5</cost>
+    <price>12.99</price>
+    <purchaseDate>2024-12-20</purchaseDate>
+    <expirationDate>2025-09-15</expirationDate>
+    <quantityInStock>700</quantityInStock>
+    <profitMargin>0.61</profitMargin>
+    <Primary>High profit margin and substantial stock</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Organic Lavender Essential Oil</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU1122</guid>
+    <sku>SKU1122</sku>
+    <description>Organic Lavender Essential Oil</description>
+    <cost>8</cost>
+    <price>19.99</price>
+    <purchaseDate>2024-11-20</purchaseDate>
+    <expirationDate>2025-07-20</expirationDate>
+    <quantityInStock>550</quantityInStock>
+    <profitMargin>0.6</profitMargin>
+    <Primary>High profit margin and good stock level</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Luxury Scented Candles</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU3344</guid>
+    <sku>SKU3344</sku>
+    <description>Luxury Scented Candles</description>
+    <cost>6.5</cost>
+    <price>16.99</price>
+    <purchaseDate>2024-12-15</purchaseDate>
+    <expirationDate>2026-01-01</expirationDate>
+    <quantityInStock>650</quantityInStock>
+    <profitMargin>0.61</profitMargin>
+    <Primary>High profit margin and good stock level</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Premium Olive Oil Bottle</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SKU8899</guid>
+    <sku>SKU8899</sku>
+    <description>Premium Olive Oil Bottle</description>
+    <cost>10</cost>
+    <price>16.99</price>
+    <purchaseDate>2024-11-10</purchaseDate>
+    <expirationDate>2025-06-10</expirationDate>
+    <quantityInStock>450</quantityInStock>
+    <profitMargin>0.6</profitMargin>
+    <Primary>Good profit margin with moderate stock</Primary>
+    <Financial>Ensure stable sales and turnover</Financial>
+   
+  </item>
+<item>
+     <mediaId>112234</mediaId>
+     <title>Girl Scout Cookies, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW002</link>
+    <guid>FLW002</guid>
+    <sku>FLW002</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>24.00</cost>
+    <price>52.80</price>
+    <purchaseDate>2024-11-18</purchaseDate>
+    <expirationDate>2025-05-18</expirationDate>
+    <quantityInStock>35</quantityInStock>
+    <profitMargin>54.55</profitMargin>
+   
+    
+  </item>
+
+  <item>
+     <mediaId>112235</mediaId>
+    <title>OG Kush, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW003</link>
+    <guid>FLW003</guid>
+    <sku>FLW003</sku>
+    <description>OG Kush, Flower 3.5g</description>
+    <cost>21.00</cost>
+    <price>44.10</price>
+    <purchaseDate>2024-11-20</purchaseDate>
+    <expirationDate>2025-05-20</expirationDate>
+    <quantityInStock>28</quantityInStock>
+    <profitMargin>52.38</profitMargin>
+   
+    
+  </item>
+
+  <!-- Continue for all products in the same format -->
+  
+  <item>
+     <mediaId>112325</mediaId>
+    <title>Hemp Wick</title>
+    <link>https://example.com/inventory/ACC011</link>
+    <guid>ACC011</guid>
+    <sku>ACC011</sku>
+    <description>Hemp Wick</description>
+    <cost>2.00</cost>
+    <price>6.00</price>
+    <purchaseDate>2024-12-10</purchaseDate>
+    <expirationDate>null</expirationDate>
+    <quantityInStock>85</quantityInStock>
+    <profitMargin>66.67</profitMargin>
+   
+  
+  </item>
+
+</channel>
+</rss>
