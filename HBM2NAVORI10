@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Cannabis Dispensary Inventory Feed</title>
+  <link>https://example.com/inventory</link>
+  <description>Complete inventory listing for cannabis products</description>
+  <language>en-us</language>
+  <lastBuildDate>2025-01-09T17:38:23.743-05:00</lastBuildDate>
+
+  <item>
+    <mediaId></mediaId>
+    <title>Organic hemp rolling papers</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>HK9009</guid>
+    <sku>HK9009</sku>
+    <description>Organic hemp rolling papers</description>
+    <cost>2</cost>
+    <price>4</price>
+    <purchaseDate>2024-07-01</purchaseDate>
+    <expirationDate>2025-07-01</expirationDate>
+    <quantityInStock>600</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Moderate stock with a good profit margin</Primary>
+    <Financial>Increase revenue and reduce inventory</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>High-potency cannabis vape cartridges</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>AK7007</guid>
+    <sku>AK7007</sku>
+    <description>High-potency cannabis vape cartridges</description>
+    <cost>20</cost>
+    <price>40</price>
+    <purchaseDate>2024-09-15</purchaseDate>
+    <expirationDate>2025-02-15</expirationDate>
+    <quantityInStock>200</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Approaching expiration date with limited stock</Primary>
+    <Financial>Prevent loss due to expired product, generate revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Pre-rolled cannabis blunts</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>PW8008</guid>
+    <sku>PW8008</sku>
+    <description>Pre-rolled cannabis blunts</description>
+    <cost>15</cost>
+    <price>30</price>
+    <purchaseDate>2024-08-01</purchaseDate>
+    <expirationDate>2025-01-30</expirationDate>
+    <quantityInStock>400</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Expiration date is less than 30 days away</Primary>
+    <Financial>Reduce potential losses from expired inventory</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>CBD infused hard candies</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>SG5005</guid>
+    <sku>SG5005</sku>
+    <description>CBD infused hard candies</description>
+    <cost>8</cost>
+    <price>16</price>
+    <purchaseDate>2024-10-10</purchaseDate>
+    <expirationDate>2025-03-10</expirationDate>
+    <quantityInStock>1200</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>High stock level with good profit margin</Primary>
+    <Financial>Increase revenue and reduce stock level</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>10mg THC infused gummies</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>KA3003</guid>
+    <sku>KA3003</sku>
+    <description>10mg THC infused gummies</description>
+    <cost>10</cost>
+    <price>20</price>
+    <purchaseDate>2024-11-20</purchaseDate>
+    <expirationDate>2025-04-20</expirationDate>
+    <quantityInStock>800</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>High stock level with good profit margin</Primary>
+    <Financial>Increase revenue and reduce stock level</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>100mg THC infused cannabis drops</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>DD1001</guid>
+    <sku>DD1001</sku>
+    <description>100mg THC infused cannabis drops</description>
+    <cost>12.5</cost>
+    <price>25</price>
+    <purchaseDate>2024-11-15</purchaseDate>
+    <expirationDate>2025-05-15</expirationDate>
+    <quantityInStock>500</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Good profit margin with moderate stock level</Primary>
+    <Financial>Increase revenue and maintain optimal stock levels</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Assorted fruit flavored cannabis gummies</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>WY1010</guid>
+    <sku>WY1010</sku>
+    <description>Assorted fruit flavored cannabis gummies</description>
+    <cost>11</cost>
+    <price>22</price>
+    <purchaseDate>2024-06-01</purchaseDate>
+    <expirationDate>2025-05-30</expirationDate>
+    <quantityInStock>700</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Good profit margin and solid stock levels</Primary>
+    <Financial>Increase revenue and optimize inventory turnover</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Premium indoor grown cannabis flower</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CC2002</guid>
+    <sku>CC2002</sku>
+    <description>Premium indoor grown cannabis flower</description>
+    <cost>35</cost>
+    <price>70</price>
+    <purchaseDate>2024-12-01</purchaseDate>
+    <expirationDate>2025-06-01</expirationDate>
+    <quantityInStock>300</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Good profit margin and moderate stock levels</Primary>
+    <Financial>Increase revenue and optimize inventory turnover</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Reusable odor-proof cannabis bag</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>WB6006</guid>
+    <sku>WB6006</sku>
+    <description>Reusable odor-proof cannabis bag</description>
+    <cost>3</cost>
+    <price>6</price>
+    <purchaseDate>2024-10-01</purchaseDate>
+    <expirationDate>2025-10-01</expirationDate>
+    <quantityInStock>1500</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>High stock level with consistent demand</Primary>
+    <Financial>Increase sales and reduce stock</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title>Same-day cannabis delivery service</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>DL4004</guid>
+    <sku>DL4004</sku>
+    <description>Same-day cannabis delivery service</description>
+    <cost>5</cost>
+    <price>6</price>
+    <purchaseDate>2025-01-01</purchaseDate>
+    <expirationDate>2025-12-31</expirationDate>
+    <quantityInStock>1000</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>High stock level with a good profit margin</Primary>
+    <Financial>Increase revenue and reduce inventory</Financial>
+   
+  </item>
+<item>
+     <mediaId>112234</mediaId>
+     <title>Girl Scout Cookies, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW002</link>
+    <guid>FLW002</guid>
+    <sku>FLW002</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>24.00</cost>
+    <price>52.80</price>
+    <purchaseDate>2024-11-18</purchaseDate>
+    <expirationDate>2025-05-18</expirationDate>
+    <quantityInStock>35</quantityInStock>
+    <profitMargin>54.55</profitMargin>
+   
+    
+  </item>
+
+  <item>
+     <mediaId>112235</mediaId>
+    <title>OG Kush, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW003</link>
+    <guid>FLW003</guid>
+    <sku>FLW003</sku>
+    <description>OG Kush, Flower 3.5g</description>
+    <cost>21.00</cost>
+    <price>44.10</price>
+    <purchaseDate>2024-11-20</purchaseDate>
+    <expirationDate>2025-05-20</expirationDate>
+    <quantityInStock>28</quantityInStock>
+    <profitMargin>52.38</profitMargin>
+   
+    
+  </item>
+
+  <!-- Continue for all products in the same format -->
+  
+  <item>
+     <mediaId>112325</mediaId>
+    <title>Hemp Wick</title>
+    <link>https://example.com/inventory/ACC011</link>
+    <guid>ACC011</guid>
+    <sku>ACC011</sku>
+    <description>Hemp Wick</description>
+    <cost>2.00</cost>
+    <price>6.00</price>
+    <purchaseDate>2024-12-10</purchaseDate>
+    <expirationDate>null</expirationDate>
+    <quantityInStock>85</quantityInStock>
+    <profitMargin>66.67</profitMargin>
+   
+  
+  </item>
+
+</channel>
+</rss>
