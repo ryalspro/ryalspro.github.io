@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T09:16:42.997-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T09:20:38.223-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339812</mediaId>
@@ -19,9 +19,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
-    <profitMargin>0.9043269950591406</profitMargin>
-    <Primary>Highest profit margin product.</Primary>
-    <Financial>Maximize revenue due to high profit margin and substantial stock.</Financial>
+    <profitMargin>0.9043</profitMargin>
+    <Primary>High profit margin and good stock level</Primary>
+    <Financial>Maximize profit due to high margin and sufficient inventory.</Financial>
    
   </item>
   <item>
@@ -36,9 +36,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>60</quantityInStock>
-    <profitMargin>0.5785770132916341</profitMargin>
-    <Primary>High profit margin with good stock levels.</Primary>
-    <Financial>Increase revenue by capitalizing on profit margin and quantity.</Financial>
+    <profitMargin>0.5786</profitMargin>
+    <Primary>Good profit margin and high stock level.</Primary>
+    <Financial>Significant profit potential due to margin and inventory.</Financial>
    
   </item>
   <item>
@@ -53,9 +53,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>50</quantityInStock>
-    <profitMargin>0.5670186839967506</profitMargin>
-    <Primary>Good profit margin with a decent stock level</Primary>
-    <Financial>Increase revenue by promoting high-margin items with sufficient stock</Financial>
+    <profitMargin>0.567</profitMargin>
+    <Primary>Good profit margin and decent stock level.</Primary>
+    <Financial>Good profit and inventory turnover potential.</Financial>
    
   </item>
   <item>
@@ -70,9 +70,9 @@
     <purchaseDate>6.7.2024</purchaseDate>
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>20</quantityInStock>
-    <profitMargin>0.5527760829774253</profitMargin>
-    <Primary>Good profit margin and needs regular promotion to ensure inventory turnover</Primary>
-    <Financial>Increase revenue and prevent products from sitting on shelves.</Financial>
+    <profitMargin>0.5528</profitMargin>
+    <Primary>Good profit margin, lower stock but still profitable</Primary>
+    <Financial>Potential for good profit, needs inventory movement</Financial>
    
   </item>
   <item>
@@ -87,9 +87,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>50</quantityInStock>
-    <profitMargin>0.5332167832167832</profitMargin>
-    <Primary>Good profit margin and needs regular promotion to ensure inventory turnover</Primary>
-    <Financial>Increase revenue and prevent products from sitting on shelves.</Financial>
+    <profitMargin>0.5332</profitMargin>
+    <Primary>Decent profit margin with solid stock level</Primary>
+    <Financial>Good profit potential with inventory turnover.</Financial>
    
   </item>
   <item>
@@ -104,9 +104,9 @@
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>100</quantityInStock>
-    <profitMargin>0.509795918367347</profitMargin>
-    <Primary>High stock and good profit margin</Primary>
-    <Financial>High stock needs to be reduced to make room for newer products, and this product has a good profit margin.</Financial>
+    <profitMargin>0.5098</profitMargin>
+    <Primary>Good stock level, moderate profit margin</Primary>
+    <Financial>Stable profit potential, needs inventory turnover.</Financial>
    
   </item>
   <item>
@@ -121,9 +121,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>60</quantityInStock>
-    <profitMargin>0.47495088408644404</profitMargin>
-    <Primary>Consistent performer that needs consistent marketing efforts</Primary>
-    <Financial>Maintain sales momentum and turnover</Financial>
+    <profitMargin>0.475</profitMargin>
+    <Primary>Moderate profit margin, high stock level</Primary>
+    <Financial>Steady profit, good for promotions.</Financial>
    
   </item>
   <item>
@@ -138,9 +138,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>20</quantityInStock>
-    <profitMargin>0.33443708609271533</profitMargin>
-    <Primary>Needs regular promotion to ensure inventory turnover</Primary>
-    <Financial>Prevent products from sitting on shelves and maintain sales</Financial>
+    <profitMargin>0.3344</profitMargin>
+    <Primary>Lower profit margin, needs regular promotion.</Primary>
+    <Financial>Needs promotion for inventory movement.</Financial>
    
   </item>
   <item>
@@ -155,9 +155,9 @@
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>1</quantityInStock>
-    <profitMargin>0.42293464858199753</profitMargin>
-    <Primary>Very low stock, needs immediate sale to clear inventory</Primary>
-    <Financial>Clear out low-stock item to minimize holding costs</Financial>
+    <profitMargin>0.4229</profitMargin>
+    <Primary>Very low stock, needs immediate sale.</Primary>
+    <Financial>Potential loss if not sold immediately.</Financial>
    
   </item>
   <item>
@@ -172,9 +172,9 @@
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>2</quantityInStock>
-    <profitMargin>0.15384615384615383</profitMargin>
-    <Primary>Very low stock, needs immediate sale to clear inventory</Primary>
-    <Financial>Clear out low-stock item to minimize holding costs</Financial>
+    <profitMargin>0.1538</profitMargin>
+    <Primary>Very low stock and low profit margin, needs immediate sale</Primary>
+    <Financial>Potential loss if not sold immediately.</Financial>
    
   </item>
 <item>
