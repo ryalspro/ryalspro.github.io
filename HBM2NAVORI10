@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T12:04:11.584-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T12:08:32.447-05:00</lastBuildDate>
 
   <item>
     <mediaId>1219398</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels.</Primary>
-    <Financial>Increased revenue from high-margin product.</Financial>
+    <Primary>High profit margin and moderate stock, nearing mid-point of shelf life.</Primary>
+    <Financial>Increase revenue by moving high-margin inventory. Potential revenue of $208.7 per unit. Total potential revenue $2,295.7 from total units.</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and significant stock levels.</Primary>
-    <Financial>Significant revenue potential.</Financial>
+    <Primary>High profit margin and significant stock.</Primary>
+    <Financial>Increase revenue by moving high-margin inventory. Potential revenue of $18.12 per unit. Total potential revenue $398.64 from total units.</Financial>
    
   </item>
   <item>
@@ -54,127 +54,127 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Large stock, needs regular promotion to maintain turnover.</Primary>
-    <Financial>Reduce holding costs.</Financial>
+    <Primary>Standard profit margin, high stock level.</Primary>
+    <Financial>Clearance of excess inventory.  Potential revenue of $4.04 per unit. Total potential revenue $177.76 from total units.</Financial>
    
   </item>
   <item>
-    <mediaId>1219399</mediaId>
-    <title>Dank Drops 2</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>DD002</guid>
-    <sku>DD002</sku>
-    <description>Dank Drops 2</description>
-    <cost>16.99</cost>
-    <price>37.93</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.15.2025</expirationDate>
-    <quantityInStock>10</quantityInStock>
-    <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels.</Primary>
-    <Financial>Increased revenue from high-margin product.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1219397</mediaId>
-    <title>Craft Cannabis 2</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG03</guid>
-    <sku>TRG03</sku>
-    <description>Craft Cannabis 2</description>
-    <cost>15.66</cost>
-    <price>33.78</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.20.2025</expirationDate>
-    <quantityInStock>25</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>High profit margin and significant stock levels.</Primary>
-    <Financial>Significant revenue potential.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1339816</mediaId>
-    <title>aprilKynd 2</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG16</guid>
-    <sku>TRG16</sku>
-    <description>aprilKynd 2</description>
-    <cost>9.04</cost>
-    <price>13.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>7.5.2025</expirationDate>
-    <quantityInStock>50</quantityInStock>
-    <profitMargin>33</profitMargin>
-    <Primary>Large stock, needs regular promotion to maintain turnover.</Primary>
-    <Financial>Reduce holding costs.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1219398</mediaId>
-    <title>Dank Drops 3</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>DD003</guid>
-    <sku>DD003</sku>
-    <description>Dank Drops 3</description>
-    <cost>17.99</cost>
-    <price>38.93</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.20.2025</expirationDate>
-    <quantityInStock>9</quantityInStock>
-    <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels.</Primary>
-    <Financial>Increased revenue from high-margin product.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>12193972</mediaId>
-    <title>Craft Cannabis 3</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG04</guid>
-    <sku>TRG04</sku>
-    <description>Craft Cannabis 3</description>
-    <cost>16.66</cost>
-    <price>34.78</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.25.2025</expirationDate>
-    <quantityInStock>27</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>High profit margin and significant stock levels.</Primary>
-    <Financial>Significant revenue potential.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1339815</mediaId>
-    <title>aprilKynd 3</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG17</guid>
-    <sku>TRG17</sku>
-    <description>aprilKynd 3</description>
-    <cost>10.04</cost>
-    <price>14.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>7.10.2025</expirationDate>
-    <quantityInStock>55</quantityInStock>
-    <profitMargin>33</profitMargin>
-    <Primary>Large stock, needs regular promotion to maintain turnover.</Primary>
-    <Financial>Reduce holding costs.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1219398</mediaId>
-    <title>Dank Drops 4</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>DD004</guid>
-    <sku>DD004</sku>
-    <description>Dank Drops 4</description>
-    <cost>18.99</cost>
-    <price>14.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.25.2025</expirationDate>
-    <quantityInStock>8</quantityInStock>
-    <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels.</Primary>
-    <Financial>Increased revenue from high-margin product.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
 <item>
