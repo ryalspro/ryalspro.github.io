@@ -5,23 +5,23 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T13:21:10.190-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T13:23:50.114-05:00</lastBuildDate>
 
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>13398123</mediaId>
+    <title>Girl Scout Cookies, Flower 3.5g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>TRG16</guid>
+    <sku>TRG16</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>16.39</cost>
+    <price>67.79</price>
+    <purchaseDate>6.24.2024</purchaseDate>
+    <expirationDate>8.5.2026</expirationDate>
+    <quantityInStock>333</quantityInStock>
+    <profitMargin>90</profitMargin>
+    <Primary>High profit margin and significant stock</Primary>
+    <Financial>Maximize revenue due to high profit margin and substantial quantity in stock.</Financial>
    
   </item>
   <item>
