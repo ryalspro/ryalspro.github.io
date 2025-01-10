@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T15:50:42.374-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T15:55:37.005-05:00</lastBuildDate>
 
   <item>
     <mediaId>13398123</mediaId>
@@ -21,7 +21,7 @@
     <quantityInStock>55</quantityInStock>
     <profitMargin>90</profitMargin>
     <Primary>High profit margin and good stock level</Primary>
-    <Financial>Maximize revenue due to high profit margin.</Financial>
+    <Financial>Maximize revenue from high-margin product</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>111</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and high stock level.</Primary>
-    <Financial>Significant revenue potential due to high volume and profit margin.</Financial>
+    <Primary>High profit margin and high stock level</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
    
   </item>
   <item>
@@ -54,8 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>87</profitMargin>
-    <Primary>Very high profit margin and good stock.</Primary>
-    <Financial>Maximize profits due to very high margin.</Financial>
+    <Primary>High profit margin and good stock level</Primary>
+    <Financial>Maximize revenue from high-margin product</Financial>
    
   </item>
   <item>
@@ -71,8 +71,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>Good profit margin and needing stock turnover.</Primary>
-    <Financial>Maintain consistent sales with good profit</Financial>
+    <Primary>High profit margin and nearing expiration date</Primary>
+    <Financial>Reduce losses from expiring inventory</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and significant stock.</Primary>
-    <Financial>Increase revenue due to high volume and good margin</Financial>
+    <Primary>Good profit margin and high stock level</Primary>
+    <Financial>Maximize revenue from good-margin product</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>Good profit margin and moderate stock.</Primary>
-    <Financial>Consistent revenue and profit</Financial>
+    <Primary>Good profit margin and moderate stock level</Primary>
+    <Financial>Maintain revenue stream from good-margin product</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and moderate stock level.</Primary>
-    <Financial>Contribute to steady revenue</Financial>
+    <Primary>Good profit margin and moderate stock level</Primary>
+    <Financial>Maintain revenue stream from good-margin product</Financial>
    
   </item>
   <item>
@@ -139,8 +139,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Moderate profit margin and solid stock levels.</Primary>
-    <Financial>Increase revenue through solid sales.</Financial>
+    <Primary>Good profit margin and moderate stock level</Primary>
+    <Financial>Maintain revenue stream from good-margin product</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Decent profit margin with good stock level.</Primary>
-    <Financial>Maintain sales and contribute to profit</Financial>
+    <Primary>Good profit margin and moderate stock level</Primary>
+    <Financial>Maintain revenue stream from good-margin product</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin and high stock.</Primary>
-    <Financial>Increase revenue due to high stock volume.</Financial>
+    <Primary>Moderate profit margin and good stock level</Primary>
+    <Financial>Maintain revenue stream from moderate-margin product</Financial>
    
   </item>
   
