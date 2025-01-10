@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T10:55:39.020-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T11:00:43.486-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339812</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and nearing expiration date with low stock.</Primary>
-    <Financial>Maximize profit potential with a high margin item that will expire soon if not sold.</Financial>
+    <Primary>High profit margin and low stock, nearing expiration</Primary>
+    <Financial>Maximize revenue from high-margin product, prevent loss from expired goods.</Financial>
    
   </item>
   <item>
@@ -37,25 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>Good profit margin and a need to increase turnover due to the expiration date</Primary>
-    <Financial>Significant revenue potential with good profit margins.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>11</quantityInStock>
-    <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and a need to increase turnover due to the expiration date.</Primary>
-    <Financial>Significant revenue potential with high profit margin.</Financial>
+    <Primary>Good profit margin with moderate stock levels, needs to be moved before expiration</Primary>
+    <Financial>Generate significant revenue and prevent losses from expiration.</Financial>
    
   </item>
   <item>
@@ -71,8 +54,25 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and moderate stock needing regular promotion.</Primary>
-    <Financial>Maximize profit with consistent sales.</Financial>
+    <Primary>Good profit margin and moderate stock, needs regular promotion</Primary>
+    <Financial>Increase revenue with a high-margin product, ensure regular sales</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>11</quantityInStock>
+    <profitMargin>57</profitMargin>
+    <Primary>Good profit margin and low stock, needs to be moved before expiration</Primary>
+    <Financial>Maximize revenue from a good margin product, prevent loss from expired goods.</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and moderate stock needing regular promotion.</Primary>
-    <Financial>Good revenue potential with consistent sales.</Financial>
+    <Primary>Good profit margin and moderate stock, needs to be moved before expiration</Primary>
+    <Financial>Maximize revenue from a good margin product, prevent loss from expired goods.</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and moderate stock.</Primary>
-    <Financial>Good revenue potential with consistent sales.</Financial>
+    <Primary>Moderate profit margin and good stock, regular promotion needed</Primary>
+    <Financial>Increase revenue with regular sales</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Good profit margin and moderate stock that needs regular promotion to ensure it moves before expiration date.</Primary>
-    <Financial>Good revenue potential with consistent sales.</Financial>
+    <Primary>Good stock and moderate profit margin, needs regular promotion</Primary>
+    <Financial>Ensure steady sales</Financial>
    
   </item>
   <item>
@@ -139,8 +139,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin and high stock level.</Primary>
-    <Financial>Consistent revenue potential with high stock volume.</Financial>
+    <Primary>Moderate profit margin and good stock, needs regular promotion</Primary>
+    <Financial>Maintain consistent sales</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin with high stock levels</Primary>
-    <Financial>Good revenue potential with high stock volume</Financial>
+    <Primary>Lower profit margin, high stock, needs regular promotion</Primary>
+    <Financial>Ensure steady sales of this product</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>Lower profit margin but very high stock levels.</Primary>
-    <Financial>Ensure the product moves before expiration date.</Financial>
+    <Primary>Low profit margin, but high stock, needs some promotion</Primary>
+    <Financial>Ensure product turnover</Financial>
    
   </item>
 <item>
