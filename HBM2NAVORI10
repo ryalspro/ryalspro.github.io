@@ -5,176 +5,176 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T12:29:08.411-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T12:33:24.488-05:00</lastBuildDate>
 
   <item>
-    <mediaId>Media1,Media2</mediaId>
-    <title>Example Product 1</title>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU123</guid>
-    <sku>SKU123</sku>
-    <description>Example Product 1</description>
-    <cost>10</cost>
-    <price>25</price>
-    <purchaseDate>2024-12-01</purchaseDate>
-    <expirationDate>2025-03-01</expirationDate>
-    <quantityInStock>150</quantityInStock>
-    <profitMargin>0.6</profitMargin>
-    <Primary>High profit margin and moderate stock level</Primary>
-    <Financial>Increase revenue by promoting high-margin item</Financial>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>55</quantityInStock>
+    <profitMargin>57</profitMargin>
+    <Primary>High profit margin and moderate stock levels.</Primary>
+    <Financial>Increase revenue through sales of a high-margin product.</Financial>
    
   </item>
   <item>
-    <mediaId>Media3,Media4</mediaId>
-    <title>Example Product 2</title>
+    <mediaId>1339815</mediaId>
+    <title>aprilKynd</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU456</guid>
-    <sku>SKU456</sku>
-    <description>Example Product 2</description>
-    <cost>5</cost>
-    <price>15</price>
-    <purchaseDate>2024-11-15</purchaseDate>
-    <expirationDate>2025-04-15</expirationDate>
-    <quantityInStock>200</quantityInStock>
-    <profitMargin>0.66</profitMargin>
-    <Primary>Very high profit margin</Primary>
-    <Financial>Maximize revenue</Financial>
+    <guid>TRG12</guid>
+    <sku>TRG12</sku>
+    <description>aprilKynd</description>
+    <cost>8.04</cost>
+    <price>12.08</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>55</quantityInStock>
+    <profitMargin>33</profitMargin>
+    <Primary>Moderate profit margin and good stock levels.</Primary>
+    <Financial>Maintain consistent sales.</Financial>
    
   </item>
   <item>
-    <mediaId>Media5,Media6</mediaId>
-    <title>Example Product 3</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU789</guid>
-    <sku>SKU789</sku>
-    <description>Example Product 3</description>
-    <cost>20</cost>
-    <price>40</price>
-    <purchaseDate>2024-10-01</purchaseDate>
-    <expirationDate>2025-02-15</expirationDate>
-    <quantityInStock>50</quantityInStock>
-    <profitMargin>0.5</profitMargin>
-    <Primary>Nearing expiration</Primary>
-    <Financial>Prevent losses from expired stock</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media7,Media8</mediaId>
-    <title>Example Product 4</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU101</guid>
-    <sku>SKU101</sku>
-    <description>Example Product 4</description>
-    <cost>7</cost>
-    <price>18</price>
-    <purchaseDate>2024-09-01</purchaseDate>
-    <expirationDate>2025-05-01</expirationDate>
-    <quantityInStock>100</quantityInStock>
-    <profitMargin>0.61</profitMargin>
-    <Primary>Good profit margin and stock level</Primary>
-    <Financial>Increase profit margin through sale</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media9,Media10</mediaId>
-    <title>Example Product 5</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU112</guid>
-    <sku>SKU112</sku>
-    <description>Example Product 5</description>
-    <cost>12</cost>
-    <price>28</price>
-    <purchaseDate>2024-08-15</purchaseDate>
-    <expirationDate>2025-06-15</expirationDate>
-    <quantityInStock>120</quantityInStock>
-    <profitMargin>0.57</profitMargin>
-    <Primary>Standard inventory item</Primary>
-    <Financial>Maintain consistent sales volume</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media11,Media12</mediaId>
-    <title>Example Product 6</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU131</guid>
-    <sku>SKU131</sku>
-    <description>Example Product 6</description>
-    <cost>3</cost>
-    <price>10</price>
-    <purchaseDate>2024-07-10</purchaseDate>
-    <expirationDate>2025-02-25</expirationDate>
-    <quantityInStock>40</quantityInStock>
-    <profitMargin>0.7</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue before expiration</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media13,Media14</mediaId>
-    <title>Example Product 7</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU142</guid>
-    <sku>SKU142</sku>
-    <description>Example Product 7</description>
-    <cost>15</cost>
-    <price>35</price>
-    <purchaseDate>2024-06-01</purchaseDate>
-    <expirationDate>2025-07-15</expirationDate>
-    <quantityInStock>130</quantityInStock>
-    <profitMargin>0.57</profitMargin>
-    <Primary>Standard inventory item with good stock level</Primary>
-    <Financial>Maintain steady sales</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media15,Media16</mediaId>
-    <title>Example Product 8</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU153</guid>
-    <sku>SKU153</sku>
-    <description>Example Product 8</description>
-    <cost>8</cost>
-    <price>20</price>
-    <purchaseDate>2024-05-01</purchaseDate>
-    <expirationDate>2025-03-01</expirationDate>
-    <quantityInStock>90</quantityInStock>
-    <profitMargin>0.6</profitMargin>
-    <Primary>Good profit margin and stock</Primary>
-    <Financial>Increase revenue from sale</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media17,Media18</mediaId>
-    <title>Example Product 9</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU164</guid>
-    <sku>SKU164</sku>
-    <description>Example Product 9</description>
-    <cost>2</cost>
-    <price>8</price>
-    <purchaseDate>2024-04-15</purchaseDate>
-    <expirationDate>2025-04-15</expirationDate>
-    <quantityInStock>160</quantityInStock>
-    <profitMargin>0.75</profitMargin>
-    <Primary>Very high profit margin</Primary>
-    <Financial>Maximize revenue</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>Media19,Media20</mediaId>
-    <title>Example Product 10</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>SKU175</guid>
-    <sku>SKU175</sku>
-    <description>Example Product 10</description>
-    <cost>18</cost>
-    <price>8</price>
-    <purchaseDate>2024-03-01</purchaseDate>
-    <expirationDate>2025-05-01</expirationDate>
-    <quantityInStock>70</quantityInStock>
-    <profitMargin>0.4</profitMargin>
-    <Primary>Standard inventory item</Primary>
-    <Financial>Maintain consistent sales volume</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
 <item>
