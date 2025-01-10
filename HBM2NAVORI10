@@ -5,23 +5,23 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-09T19:02:00.070-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-09T19:05:46.504-05:00</lastBuildDate>
 
   <item>
-    <mediaId>1219397</mediaId>
+    <mediaId></mediaId>
     <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG07</guid>
     <sku>TRG07</sku>
     <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>32.78</price>
-    <purchaseDate>6.7.2031</purchaseDate>
-    <expirationDate>10.5.2032</expirationDate>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
     <quantityInStock>666</quantityInStock>
     <profitMargin>0.55</profitMargin>
-    <Primary>High profit margin and significant stock</Primary>
-    <Financial>Increase revenue and reduce inventory holding costs</Financial>
+    <Primary>High profit margin and significant stock level</Primary>
+    <Financial></Financial>
    
   </item>
   <item>
