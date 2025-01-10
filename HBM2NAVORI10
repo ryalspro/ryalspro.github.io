@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-09T19:10:57.197-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-09T19:13:05.656-05:00</lastBuildDate>
 
   <item>
     <mediaId>1219397</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>10.5.2032</expirationDate>
     <quantityInStock>666</quantityInStock>
     <profitMargin>0.55</profitMargin>
-    <Primary>High profit margin and significant stock levels.</Primary>
-    <Financial>Increase revenue through high margin product sales and reduce inventory.</Financial>
+    <Primary>High profit margin and substantial stock levels</Primary>
+    <Financial>Increase revenue by reducing inventory and capitalizing on high margin</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>6.5.2032</expirationDate>
     <quantityInStock>555</quantityInStock>
     <profitMargin>0.53</profitMargin>
-    <Primary>Good profit margin and substantial stock with an approaching expiration date.</Primary>
-    <Financial>Maximize profit by selling a large stock item with a good margin.</Financial>
+    <Primary>Good profit margin with a large quantity in stock.</Primary>
+    <Financial>Increase revenue by capitalizing on a high-margin product with strong stock</Financial>
    
   </item>
   <item>
