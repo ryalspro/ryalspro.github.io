@@ -5,40 +5,40 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T08:39:51.022-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T08:42:07.236-05:00</lastBuildDate>
 
   <item>
-    <mediaId>1219398</mediaId>
+    <mediaId></mediaId>
     <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>DD001</guid>
     <sku>DD001</sku>
     <description>Dank Drops</description>
-    <cost>15.99</cost>
-    <price>36.93</price>
-    <purchaseDate>8.24.2031</purchaseDate>
-    <expirationDate>6.5.2032</expirationDate>
-    <quantityInStock>50</quantityInStock>
-    <profitMargin>0.56</profitMargin>
-    <Primary>High profit margin and significant stock.</Primary>
-    <Financial>Increase revenue through high margin product.</Financial>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1339814</mediaId>
+    <mediaId></mediaId>
     <title>Packwoods</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG13</guid>
     <sku>TRG13</sku>
     <description>Packwoods</description>
-    <cost>6.71</cost>
-    <price>7.93</price>
-    <purchaseDate>4.4.2032</purchaseDate>
-    <expirationDate>9.5.2036</expirationDate>
-    <quantityInStock>1</quantityInStock>
-    <profitMargin>0.43</profitMargin>
-    <Primary>Very low stock levels.</Primary>
-    <Financial>Reduce risk of lost sale.</Financial>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
