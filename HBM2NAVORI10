@@ -5,23 +5,23 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T15:21:21.061-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T15:26:16.450-05:00</lastBuildDate>
 
   <item>
-    <mediaId>13398123</mediaId>
-    <title>Girl Scout Cookies, Flower 3.5g</title>
+    <mediaId>13392817</mediaId>
+    <title>OG Kush, Flower 3.5g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG16</guid>
-    <sku>TRG16</sku>
-    <description>Girl Scout Cookies, Flower 3.5g</description>
-    <cost>16.39</cost>
-    <price>67.79</price>
-    <purchaseDate>6.24.2024</purchaseDate>
-    <expirationDate>8.5.2026</expirationDate>
-    <quantityInStock>121</quantityInStock>
-    <profitMargin>90</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Maximize revenue due to high profit margin and substantial stock</Financial>
+    <guid>TRG17</guid>
+    <sku>TRG17</sku>
+    <description>OG Kush, Flower 3.5g</description>
+    <cost>17.69</cost>
+    <price>27.36</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>132</quantityInStock>
+    <profitMargin>87</profitMargin>
+    <Primary>High profit margin and significant stock levels</Primary>
+    <Financial>Maximize revenue from high-profit item</Financial>
    
   </item>
   <item>
@@ -37,42 +37,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>110</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Maximize revenue due to high profit margin and substantial stock</Financial>
+    <Primary>Extremely high profit margin and good stock levels.</Primary>
+    <Financial>Maximize revenue from high-profit item</Financial>
    
   </item>
   <item>
-    <mediaId>13392817</mediaId>
-    <title>OG Kush, Flower 3.5g</title>
+    <mediaId>13398123</mediaId>
+    <title>Girl Scout Cookies, Flower 3.5g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG17</guid>
-    <sku>TRG17</sku>
-    <description>OG Kush, Flower 3.5g</description>
-    <cost>17.69</cost>
-    <price>27.36</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>132</quantityInStock>
-    <profitMargin>87</profitMargin>
-    <Primary>Very high profit margin and substantial stock.</Primary>
-    <Financial>High potential to increase revenue due to profit margin and stock levels.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>99</quantityInStock>
-    <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and substantial stock</Primary>
-    <Financial>Increase revenue due to solid profit margin and good stock</Financial>
+    <guid>TRG16</guid>
+    <sku>TRG16</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>16.39</cost>
+    <price>67.79</price>
+    <purchaseDate>6.24.2024</purchaseDate>
+    <expirationDate>8.5.2026</expirationDate>
+    <quantityInStock>121</quantityInStock>
+    <profitMargin>90</profitMargin>
+    <Primary>Very high profit margin, good stock and long expiration date</Primary>
+    <Financial>Maximize revenue and reduce long term stock.</Financial>
    
   </item>
   <item>
@@ -88,8 +71,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>Good profit margin</Primary>
-    <Financial>Increase revenue due to profit margin</Financial>
+    <Primary>Good profit margin with a lower stock</Primary>
+    <Financial>Increase revenue from a good product</Financial>
    
   </item>
   <item>
@@ -105,8 +88,25 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>Good profit margin with a decent stock</Primary>
-    <Financial>Increase revenue due to profit margin and stock levels</Financial>
+    <Primary>Good profit margin and reasonable stock level.</Primary>
+    <Financial>Increase revenue from good product</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>99</quantityInStock>
+    <profitMargin>57</profitMargin>
+    <Primary>Solid profit margin with good stock.</Primary>
+    <Financial>Increase revenue from a well stocked product</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and moderate stock</Primary>
-    <Financial>Increase revenue due to profit margin</Financial>
+    <Primary>Good profit margin and moderate stock.</Primary>
+    <Financial>Increase revenue from good product</Financial>
    
   </item>
   <item>
@@ -139,8 +139,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Standard profit margin, need to keep sales going</Primary>
-    <Financial>Maintain consistent sales and revenue</Financial>
+    <Primary>Good profit margin and moderate stock, this is a service not a product.</Primary>
+    <Financial>Increase revenue from a core service</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Moderate profit margin with good stock levels.</Primary>
-    <Financial>Increase revenue due to moderate profit margin and stock levels.</Financial>
+    <Primary>Decent profit margin and reasonable stock.</Primary>
+    <Financial>Increase revenue from a solid product</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin with high stock levels.</Primary>
-    <Financial>Increase revenue due to moderate profit margin and high stock levels.</Financial>
+    <Primary>Moderate profit margin, but high quantity in stock.</Primary>
+    <Financial>Reduce overstock</Financial>
    
   </item>
   
