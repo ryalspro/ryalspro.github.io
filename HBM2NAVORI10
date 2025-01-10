@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T12:41:10.740-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T12:46:09.505-05:00</lastBuildDate>
 
   <item>
     <mediaId></mediaId>
@@ -14,14 +14,14 @@
     <guid>TRG14</guid>
     <sku>TRG14</sku>
     <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>57</profitMargin>
-    <Primary>High profit margin and sufficient stock.</Primary>
-    <Financial>Maximize profit with a high margin product.</Financial>
+    <Primary>High profit margin and available stock</Primary>
+    <Financial>Maximize revenue with a high-margin product</Financial>
    
   </item>
   <item>
@@ -194,24 +194,9 @@
     
   </item>
 
-  <item>
-     <mediaId>112235</mediaId>
-    <title>OG Kush, Flower 3.5g</title>
-    <link>https://example.com/inventory/FLW003</link>
-    <guid>FLW003</guid>
-    <sku>FLW003</sku>
-    <description>OG Kush, Flower 3.5g</description>
-    <cost>21.00</cost>
-    <price>44.10</price>
-    <purchaseDate>2024-11-20</purchaseDate>
-    <expirationDate>2025-05-20</expirationDate>
-    <quantityInStock>28</quantityInStock>
-    <profitMargin>52.38</profitMargin>
-   
-    
-  </item>
+  
 
-  <!-- Continue for all products in the same format -->
+  <!-- will play the logo file hardcoded -->
   
   <item>
      <mediaId>112325</mediaId>
