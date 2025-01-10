@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T12:33:24.488-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T12:38:29.895-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339813</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>57</profitMargin>
-    <Primary>High profit margin and moderate stock levels.</Primary>
-    <Financial>Increase revenue through sales of a high-margin product.</Financial>
+    <Primary>High profit margin and moderate stock level</Primary>
+    <Financial>Increase revenue by leveraging high profit margin.</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin and good stock levels.</Primary>
-    <Financial>Maintain consistent sales.</Financial>
+    <Primary>Moderate profit margin and stock level</Primary>
+    <Financial>Increase revenue with balanced profit and stock</Financial>
    
   </item>
   <item>
