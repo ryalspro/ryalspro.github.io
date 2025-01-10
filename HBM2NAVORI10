@@ -5,40 +5,40 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-09T19:05:46.504-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-09T19:10:57.197-05:00</lastBuildDate>
 
   <item>
-    <mediaId></mediaId>
+    <mediaId>1219397</mediaId>
     <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG07</guid>
     <sku>TRG07</sku>
     <description>Craft Cannabis</description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2031</purchaseDate>
+    <expirationDate>10.5.2032</expirationDate>
     <quantityInStock>666</quantityInStock>
     <profitMargin>0.55</profitMargin>
-    <Primary>High profit margin and significant stock level</Primary>
-    <Financial></Financial>
+    <Primary>High profit margin and significant stock levels.</Primary>
+    <Financial>Increase revenue through high margin product sales and reduce inventory.</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>1219396</mediaId>
+    <title>Kanha</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>TRG08</guid>
+    <sku>TRG08</sku>
+    <description>Kanha</description>
+    <cost>13.35</cost>
+    <price>28.6</price>
+    <purchaseDate>8.24.2031</purchaseDate>
+    <expirationDate>6.5.2032</expirationDate>
+    <quantityInStock>555</quantityInStock>
+    <profitMargin>0.53</profitMargin>
+    <Primary>Good profit margin and substantial stock with an approaching expiration date.</Primary>
+    <Financial>Maximize profit by selling a large stock item with a good margin.</Financial>
    
   </item>
   <item>
