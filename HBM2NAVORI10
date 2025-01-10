@@ -5,10 +5,10 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T08:55:33.443-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T09:01:48.726-05:00</lastBuildDate>
 
   <item>
-    <mediaId>1339812</mediaId>
+    <mediaId></mediaId>
     <title>Wyld</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG15</guid>
@@ -20,12 +20,12 @@
     <expirationDate>6.5.2034</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>0.95</profitMargin>
-    <Primary>High profit margin and substantial stock levels.</Primary>
-    <Financial>Maximize revenue due to high profit margin and large quantity in stock.</Financial>
+    <Primary>Highest profit margin and good stock level.</Primary>
+    <Financial>Maximize revenue due to high profit margin and substantial stock.</Financial>
    
   </item>
   <item>
-    <mediaId>1219398</mediaId>
+    <mediaId></mediaId>
     <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>DD001</guid>
@@ -37,29 +37,12 @@
     <expirationDate>6.5.2032</expirationDate>
     <quantityInStock>50</quantityInStock>
     <profitMargin>0.56</profitMargin>
-    <Primary>Good profit margin and stock levels, nearing expiration.</Primary>
-    <Financial>Increase revenue before product expiration.</Financial>
+    <Primary>Nearing expiration date, requires immediate action.</Primary>
+    <Financial>Reduce potential loss from expired stock, moderate profit margin.</Financial>
    
   </item>
   <item>
-    <mediaId>1219396</mediaId>
-    <title>Kanha</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG08</guid>
-    <sku>TRG08</sku>
-    <description>Kanha</description>
-    <cost>13.35</cost>
-    <price>28.6</price>
-    <purchaseDate>8.24.2031</purchaseDate>
-    <expirationDate>6.5.2032</expirationDate>
-    <quantityInStock>50</quantityInStock>
-    <profitMargin>0.53</profitMargin>
-    <Primary>Good profit margin and stock levels, nearing expiration.</Primary>
-    <Financial>Increase revenue before product expiration.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1219397</mediaId>
+    <mediaId></mediaId>
     <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG07</guid>
@@ -71,29 +54,29 @@
     <expirationDate>10.5.2032</expirationDate>
     <quantityInStock>20</quantityInStock>
     <profitMargin>0.55</profitMargin>
-    <Primary>Good profit margin and needs to be moved before expiration date.</Primary>
-    <Financial>Increase revenue before product expiration.</Financial>
+    <Primary>Nearing expiration date, needs immediate action</Primary>
+    <Financial>Reduce potential loss from expired stock, good profit margin</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
-    <title>Delivery</title>
+    <mediaId></mediaId>
+    <title>Kanha</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG09</guid>
-    <sku>TRG09</sku>
-    <description>Delivery</description>
-    <cost>12.01</cost>
-    <price>24.5</price>
-    <purchaseDate>4.4.2031</purchaseDate>
-    <expirationDate>9.5.2035</expirationDate>
-    <quantityInStock>100</quantityInStock>
-    <profitMargin>0.5</profitMargin>
-    <Primary>Solid profit margin with high stock levels.</Primary>
-    <Financial>Increase revenue through regular promotion.</Financial>
+    <guid>TRG08</guid>
+    <sku>TRG08</sku>
+    <description>Kanha</description>
+    <cost>13.35</cost>
+    <price>28.6</price>
+    <purchaseDate>8.24.2031</purchaseDate>
+    <expirationDate>6.5.2032</expirationDate>
+    <quantityInStock>50</quantityInStock>
+    <profitMargin>0.53</profitMargin>
+    <Primary>Nearing expiration date, requires immediate attention.</Primary>
+    <Financial>Reduce potential losses due to expired stock, decent profit margin.</Financial>
    
   </item>
   <item>
-    <mediaId>1339817</mediaId>
+    <mediaId></mediaId>
     <title>Sun Gems</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG10</guid>
@@ -105,29 +88,29 @@
     <expirationDate>6.5.2033</expirationDate>
     <quantityInStock>60</quantityInStock>
     <profitMargin>0.49</profitMargin>
-    <Primary>Good stock levels and profit margin.</Primary>
-    <Financial>Increase revenue through consistent promotion.</Financial>
+    <Primary>Standard inventory item needing regular promotion.</Primary>
+    <Financial>Maintain consistent sales and healthy inventory turnover, moderate profit.</Financial>
    
   </item>
   <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
+    <mediaId></mediaId>
+    <title>Delivery</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>3.79</price>
-    <purchaseDate>8.24.2033</purchaseDate>
-    <expirationDate>6.5.2034</expirationDate>
-    <quantityInStock>60</quantityInStock>
-    <profitMargin>0.41</profitMargin>
-    <Primary>Standard inventory item needing promotion.</Primary>
-    <Financial>Increase revenue through regular promotion.</Financial>
+    <guid>TRG09</guid>
+    <sku>TRG09</sku>
+    <description>Delivery</description>
+    <cost>12.01</cost>
+    <price>24.5</price>
+    <purchaseDate>4.4.2031</purchaseDate>
+    <expirationDate>9.5.2035</expirationDate>
+    <quantityInStock>100</quantityInStock>
+    <profitMargin>0.5</profitMargin>
+    <Primary>Good stock level and stable product, needs consistent promotion.</Primary>
+    <Financial>Maintain consistent sales with a good profit margin.</Financial>
    
   </item>
   <item>
-    <mediaId>1339815</mediaId>
+    <mediaId></mediaId>
     <title>aprilKynd</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG12</guid>
@@ -139,12 +122,12 @@
     <expirationDate>6.5.2033</expirationDate>
     <quantityInStock>20</quantityInStock>
     <profitMargin>0.45</profitMargin>
-    <Primary>Standard inventory item needing promotion.</Primary>
-    <Financial>Increase revenue through regular promotion.</Financial>
+    <Primary>Standard product with moderate profit margin.</Primary>
+    <Financial>Ensure consistent sales and turnover.</Financial>
    
   </item>
   <item>
-    <mediaId>1339814</mediaId>
+    <mediaId></mediaId>
     <title>Packwoods</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG13</guid>
@@ -156,25 +139,42 @@
     <expirationDate>9.5.2036</expirationDate>
     <quantityInStock>2</quantityInStock>
     <profitMargin>0.43</profitMargin>
-    <Primary>Low stock but needs to be promoted.</Primary>
-    <Financial>Increase revenue through regular promotion.</Financial>
+    <Primary>Very low stock, recently purchased</Primary>
+    <Financial>Minimize stock loss, but low quantity limits revenue impact.</Financial>
    
   </item>
   <item>
-    <mediaId>1339816</mediaId>
+    <mediaId></mediaId>
+    <title>Humankynd</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>3.79</price>
+    <purchaseDate>8.24.2033</purchaseDate>
+    <expirationDate>6.5.2034</expirationDate>
+    <quantityInStock>60</quantityInStock>
+    <profitMargin>0.41</profitMargin>
+    <Primary>Low profit margin, needs regular sales</Primary>
+    <Financial>Maintain inventory flow, lower profit impact.</Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
     <title>Weed Bag</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG11</guid>
     <sku>TRG11</sku>
     <description>Weed Bag</description>
     <cost>9.36</cost>
-    <price>7.93</price>
+    <price>3.79</price>
     <purchaseDate>8.24.2032</purchaseDate>
     <expirationDate>10.5.2033</expirationDate>
     <quantityInStock>1</quantityInStock>
     <profitMargin>0.47</profitMargin>
-    <Primary>Very low stock, needs to be promoted.</Primary>
-    <Financial>Increase revenue through promotion.</Financial>
+    <Primary>Very low stock, needs fast sell through.</Primary>
+    <Financial>Minimal revenue impact due to very low stock.</Financial>
    
   </item>
 <item>
