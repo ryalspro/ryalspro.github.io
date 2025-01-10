@@ -5,40 +5,40 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T08:44:21.669-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T08:45:00.123-05:00</lastBuildDate>
 
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>1219398</mediaId>
+    <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2031</purchaseDate>
+    <expirationDate>6.5.2032</expirationDate>
+    <quantityInStock>50</quantityInStock>
+    <profitMargin>0.56</profitMargin>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Increase revenue by moving high-margin product</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>1339814</mediaId>
+    <title>Packwoods</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>TRG13</guid>
+    <sku>TRG13</sku>
+    <description>Packwoods</description>
+    <cost>6.71</cost>
+    <price>7.93</price>
+    <purchaseDate>4.4.2032</purchaseDate>
+    <expirationDate>9.5.2036</expirationDate>
+    <quantityInStock>1</quantityInStock>
+    <profitMargin>0.43</profitMargin>
+    <Primary>Low stock level</Primary>
+    <Financial>Ensure stock availability</Financial>
    
   </item>
   <item>
