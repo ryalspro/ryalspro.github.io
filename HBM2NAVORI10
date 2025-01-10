@@ -5,40 +5,40 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T11:44:19.647-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T11:46:46.160-05:00</lastBuildDate>
 
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>1219398</mediaId>
+    <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>11</quantityInStock>
+    <profitMargin>56</profitMargin>
+    <Primary>High profit margin and nearing expiration.</Primary>
+    <Financial>Increase revenue by capitalizing on a high-margin product with a limited shelf life.</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>12193972</mediaId>
+    <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>55</profitMargin>
+    <Primary>High profit margin with good stock levels</Primary>
+    <Financial>Maximize revenue with a well-stocked, high-margin product.</Financial>
    
   </item>
   <item>
