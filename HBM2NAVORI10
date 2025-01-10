@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T15:55:37.005-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T16:04:48.631-05:00</lastBuildDate>
 
   <item>
     <mediaId>13398123</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>8.5.2026</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and good stock level</Primary>
-    <Financial>Maximize revenue from high-margin product</Financial>
+    <Primary>High profit margin and good stock levels</Primary>
+    <Financial>Maximize revenue due to high profit margin</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>111</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and high stock level</Primary>
-    <Financial>Maximize revenue from high-margin product</Financial>
+    <Primary>Very high profit margin with significant stock.  Nearing expiration date</Primary>
+    <Financial>Significant revenue potential due to high margin and stock</Financial>
    
   </item>
   <item>
@@ -54,25 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>87</profitMargin>
-    <Primary>High profit margin and good stock level</Primary>
-    <Financial>Maximize revenue from high-margin product</Financial>
-   
-  </item>
-  <item>
-    <mediaId>12193983</mediaId>
-    <title>Dank Drops</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>DD001</guid>
-    <sku>DD001</sku>
-    <description>Dank Drops</description>
-    <cost>15.99</cost>
-    <price>36.93</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>11</quantityInStock>
-    <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration date</Primary>
-    <Financial>Reduce losses from expiring inventory</Financial>
+    <Primary>Very high profit margin with significant stock.</Primary>
+    <Financial>Significant revenue potential due to high margin and stock</Financial>
    
   </item>
   <item>
@@ -88,8 +71,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and high stock level</Primary>
-    <Financial>Maximize revenue from good-margin product</Financial>
+    <Primary>High profit margin with a significant quantity in stock and nearing expiration.</Primary>
+    <Financial>Good revenue potential due to high margin and stock.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>12193983</mediaId>
+    <title>Dank Drops</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>11</quantityInStock>
+    <profitMargin>56</profitMargin>
+    <Primary>Good profit margin and nearing expiration.</Primary>
+    <Financial>Increase revenue and reduce risk of expiring stock.</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain revenue stream from good-margin product</Financial>
+    <Primary>Good profit margin and needs regular promotion.</Primary>
+    <Financial>Maintain steady sales and ensure product turnover</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain revenue stream from good-margin product</Financial>
+    <Primary>Good profit margin with moderate stock levels and approaching expiration.</Primary>
+    <Financial>Good revenue potential and stock management.</Financial>
    
   </item>
   <item>
@@ -139,8 +139,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain revenue stream from good-margin product</Financial>
+    <Primary>Good profit margin with moderate stock levels.</Primary>
+    <Financial>Good revenue potential and stock management</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain revenue stream from good-margin product</Financial>
+    <Primary>Moderate profit margin with good stock levels. Nearing expiration.</Primary>
+    <Financial>Maintain steady sales and good turnover</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin and good stock level</Primary>
-    <Financial>Maintain revenue stream from moderate-margin product</Financial>
+    <Primary>Moderate profit margin and needs regular promotion.</Primary>
+    <Financial>Ensure regular turnover</Financial>
    
   </item>
   
