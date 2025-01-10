@@ -5,15 +5,15 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T08:42:07.236-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T08:44:21.669-05:00</lastBuildDate>
 
   <item>
     <mediaId></mediaId>
-    <title>Dank Drops</title>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>DD001</guid>
-    <sku>DD001</sku>
-    <description>Dank Drops</description>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
     <cost></cost>
     <price></price>
     <purchaseDate></purchaseDate>
@@ -26,11 +26,11 @@
   </item>
   <item>
     <mediaId></mediaId>
-    <title>Packwoods</title>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG13</guid>
-    <sku>TRG13</sku>
-    <description>Packwoods</description>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
     <cost></cost>
     <price></price>
     <purchaseDate></purchaseDate>
