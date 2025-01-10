@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T16:11:13.311-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T16:12:12.609-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339812</mediaId>
@@ -20,25 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>111</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and large stock</Primary>
-    <Financial>High potential revenue due to high margin and significant inventory</Financial>
-   
-  </item>
-  <item>
-    <mediaId>13398123</mediaId>
-    <title>Girl Scout Cookies, Flower 3.5g</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG16</guid>
-    <sku>TRG16</sku>
-    <description>Girl Scout Cookies, Flower 3.5g</description>
-    <cost>16.39</cost>
-    <price>67.79</price>
-    <purchaseDate>6.24.2024</purchaseDate>
-    <expirationDate>8.5.2026</expirationDate>
-    <quantityInStock>55</quantityInStock>
-    <profitMargin>90</profitMargin>
-    <Primary>High profit margin and good stock</Primary>
-    <Financial>High potential revenue due to high margin and significant inventory</Financial>
+    <Primary>High profit margin and significant stock.</Primary>
+    <Financial>Maximize revenue with high profit margin product.</Financial>
    
   </item>
   <item>
@@ -54,25 +37,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>87</profitMargin>
-    <Primary>High profit margin and substantial stock</Primary>
-    <Financial>Good revenue potential with high margin and ample stock</Financial>
+    <Primary>Very high profit margin with a decent stock level.</Primary>
+    <Financial>Significant revenue potential due to high margin.</Financial>
    
   </item>
   <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
+    <mediaId>13398123</mediaId>
+    <title>Girl Scout Cookies, Flower 3.5g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>99</quantityInStock>
-    <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and high stock level</Primary>
-    <Financial>Good revenue potential with good profit margin and high stock</Financial>
+    <guid>TRG16</guid>
+    <sku>TRG16</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>16.39</cost>
+    <price>67.79</price>
+    <purchaseDate>6.24.2024</purchaseDate>
+    <expirationDate>8.5.2026</expirationDate>
+    <quantityInStock>55</quantityInStock>
+    <profitMargin>90</profitMargin>
+    <Primary>High profit margin and good stock level.</Primary>
+    <Financial>Maximize revenue with high profit margin product.</Financial>
    
   </item>
   <item>
@@ -88,25 +71,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>Good profit margin and moderate stock</Primary>
-    <Financial>Good revenue potential with good profit margin</Financial>
+    <Primary>Good profit margin and low stock, nearing expiration.</Primary>
+    <Financial>Reduce risk of loss with expiring inventory.</Financial>
    
   </item>
   <item>
-    <mediaId>121939725</mediaId>
-    <title>Craft Cannabis</title>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG07</guid>
-    <sku>TRG07</sku>
-    <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>32.78</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>22</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>Good profit margin with moderate stock</Primary>
-    <Financial>Potential revenue with good profit margin</Financial>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>99</quantityInStock>
+    <profitMargin>57</profitMargin>
+    <Primary>High profit margin and significant stock.</Primary>
+    <Financial>Increase revenue with high margin and good stock levels</Financial>
    
   </item>
   <item>
@@ -122,25 +105,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and moderate stock</Primary>
-    <Financial>Good revenue potential</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339818</mediaId>
-    <title>Delivery</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG09</guid>
-    <sku>TRG09</sku>
-    <description>Delivery</description>
-    <cost>12.01</cost>
-    <price>24.5</price>
-    <purchaseDate>4.4.2024</purchaseDate>
-    <expirationDate>9.5.2025</expirationDate>
-    <quantityInStock>44</quantityInStock>
-    <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and moderate stock</Primary>
-    <Financial>Good revenue potential</Financial>
+    <Primary>Good profit margin with a decent stock level.</Primary>
+    <Financial>Increase revenue while managing stock levels.</Financial>
    
   </item>
   <item>
@@ -156,8 +122,42 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Moderate profit margin and decent stock</Primary>
-    <Financial>Moderate revenue potential</Financial>
+    <Primary>Standard profit margin and good stock.</Primary>
+    <Financial>Maintain regular sales and turnover.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>13398161</mediaId>
+    <title>Weed Bag</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG11</guid>
+    <sku>TRG11</sku>
+    <description>Weed Bag</description>
+    <cost>9.36</cost>
+    <price>16.22</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>66</quantityInStock>
+    <profitMargin>42</profitMargin>
+    <Primary>Good stock levels, needs regular promotion.</Primary>
+    <Financial>Maintain consistent sales and stock turnover.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>121939725</mediaId>
+    <title>Craft Cannabis</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>55</profitMargin>
+    <Primary>Good profit margin with a decent stock level.</Primary>
+    <Financial>Increase revenue while managing stock levels.</Financial>
    
   </item>
   <item>
@@ -168,13 +168,13 @@
     <sku>TRG12</sku>
     <description>aprilKynd</description>
     <cost>8.04</cost>
-    <price>20.36</price>
+    <price>32.78</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin and good stock</Primary>
-    <Financial>Moderate revenue potential</Financial>
+    <Primary>Standard profit margin with a good stock level.</Primary>
+    <Financial>Maintain consistent sales and stock turnover.</Financial>
    
   </item>
   
