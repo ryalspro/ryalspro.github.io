@@ -5,8 +5,25 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T10:11:53.682-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T10:15:01.083-05:00</lastBuildDate>
 
+  <item>
+    <mediaId>1219398</mediaId>
+    <title>Dank Drops</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>56</profitMargin>
+    <Primary>High profit margin and good stock level</Primary>
+    <Financial>Maximize profit potential with strong margin.</Financial>
+   
+  </item>
   <item>
     <mediaId>1219396</mediaId>
     <title>Kanha</title>
@@ -20,25 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>High profit margin and available stock.</Primary>
-    <Financial>Maximize revenue from a high-margin product with a good stock level.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title></title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <Primary>High profit margin and good stock level</Primary>
+    <Financial>Maximize profit potential with strong margin.</Financial>
    
   </item>
   <item>
