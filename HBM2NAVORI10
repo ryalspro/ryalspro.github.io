@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T09:35:31.966-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T09:40:38.445-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339812</mediaId>
@@ -20,7 +20,7 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.9</profitMargin>
-    <Primary>Highest profit margin product</Primary>
+    <Primary>Highest profit margin</Primary>
     <Financial>Maximize revenue due to high profit margin.</Financial>
    
   </item>
@@ -37,8 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.57</profitMargin>
-    <Primary>High profit margin product</Primary>
-    <Financial>Maximize revenue due to high profit margin.</Financial>
+    <Primary>High profit margin and nearing expiration.</Primary>
+    <Financial>Good profit margin with a need to move inventory</Financial>
    
   </item>
   <item>
@@ -54,8 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.56</profitMargin>
-    <Primary>High profit margin product</Primary>
-    <Financial>Maximize revenue due to high profit margin.</Financial>
+    <Primary>Good profit margin and nearing expiration.</Primary>
+    <Financial>Good profit margin with a need to move inventory</Financial>
    
   </item>
   <item>
@@ -71,8 +71,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.55</profitMargin>
-    <Primary>Good profit margin and product popularity</Primary>
-    <Financial>Increase revenue and product turnover.</Financial>
+    <Primary>Solid profit margin and stock levels</Primary>
+    <Financial>Contributes to overall revenue goals</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.53</profitMargin>
-    <Primary>Good profit margin and product popularity</Primary>
-    <Financial>Increase revenue and product turnover.</Financial>
+    <Primary>Good profit margin and nearing expiration</Primary>
+    <Financial>Consistent profit generator</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.5</profitMargin>
-    <Primary>Good profit margin and essential service</Primary>
-    <Financial>Increase revenue and product turnover.</Financial>
+    <Primary>Moderate profit and stock</Primary>
+    <Financial>Steady sales contribution</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.47</profitMargin>
-    <Primary>Standard profit margin and recent purchase date</Primary>
-    <Financial>Maintain revenue and product turnover.</Financial>
+    <Primary>Good profit margin and nearing expiration.</Primary>
+    <Financial>Good profit margin with a need to move inventory</Financial>
    
   </item>
   <item>
@@ -139,8 +139,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.42</profitMargin>
-    <Primary>Standard profit margin and recent purchase date</Primary>
-    <Financial>Maintain revenue and product turnover.</Financial>
+    <Primary>Moderate profit and stock</Primary>
+    <Financial>Steady sales contribution</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.33</profitMargin>
-    <Primary>Standard profit margin and recent purchase date</Primary>
-    <Financial>Maintain revenue and product turnover.</Financial>
+    <Primary>Moderate profit and nearing expiration.</Primary>
+    <Financial>Need to move inventory</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>0.15</profitMargin>
-    <Primary>Standard profit margin and recent purchase date</Primary>
-    <Financial>Maintain revenue and product turnover.</Financial>
+    <Primary>Lower profit margin and nearing expiration.</Primary>
+    <Financial>Lower profit potential, needs to move</Financial>
    
   </item>
 <item>
