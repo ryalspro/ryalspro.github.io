@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T09:23:08.118-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T09:24:51.127-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339812</mediaId>
@@ -18,9 +18,9 @@
     <price>66.79</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>55</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.9</profitMargin>
-    <Primary>High profit margin and good stock level</Primary>
+    <Primary>Highest profit margin product</Primary>
     <Financial>Maximize revenue due to high profit margin.</Financial>
    
   </item>
@@ -35,10 +35,10 @@
     <price>12.79</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>60</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.57</profitMargin>
-    <Primary>Good profit margin and high stock.</Primary>
-    <Financial>Increase revenue through good profit margins.</Financial>
+    <Primary>High profit margin and good sales performance.</Primary>
+    <Financial>Significant revenue potential.</Financial>
    
   </item>
   <item>
@@ -52,10 +52,10 @@
     <price>36.93</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>50</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.56</profitMargin>
-    <Primary>Good profit margin and reasonable stock.</Primary>
-    <Financial>Increase revenue from strong profit margin.</Financial>
+    <Primary>Good profit margin and need to increase sales.</Primary>
+    <Financial>Strong revenue potential.</Financial>
    
   </item>
   <item>
@@ -69,10 +69,10 @@
     <price>32.78</price>
     <purchaseDate>6.7.2024</purchaseDate>
     <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>20</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.55</profitMargin>
-    <Primary>Moderate profit and reasonable stock.</Primary>
-    <Financial>Increase profit margin with sales.</Financial>
+    <Primary>Good profit margin and a popular product</Primary>
+    <Financial>Stable revenue source.</Financial>
    
   </item>
   <item>
@@ -86,10 +86,10 @@
     <price>28.6</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>50</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.53</profitMargin>
-    <Primary>Moderate profit and good stock.</Primary>
-    <Financial>Increase revenue with consistent sales.</Financial>
+    <Primary>Good profit margin and needs consistent sales</Primary>
+    <Financial>Maintain steady revenue.</Financial>
    
   </item>
   <item>
@@ -103,10 +103,10 @@
     <price>24.5</price>
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
-    <quantityInStock>100</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.5</profitMargin>
-    <Primary>Good stock level and moderate profit.</Primary>
-    <Financial>Improve revenue with increased sales.</Financial>
+    <Primary>Consistent performer with a good profit margin</Primary>
+    <Financial>Reliable revenue generator.</Financial>
    
   </item>
   <item>
@@ -120,10 +120,10 @@
     <price>20.36</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>60</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.47</profitMargin>
-    <Primary>Moderate profit and good stock.</Primary>
-    <Financial>Increase profit with consistent sales.</Financial>
+    <Primary>Moderate profit margin, needs regular promotion</Primary>
+    <Financial>Consistent revenue.</Financial>
    
   </item>
   <item>
@@ -137,10 +137,10 @@
     <price>16.22</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>1</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.42</profitMargin>
-    <Primary>Very low stock, needs immediate sale.</Primary>
-    <Financial>Clear out the remaining stock.</Financial>
+    <Primary>Good profit margin, needs sales boost</Primary>
+    <Financial>Improve sales volume.</Financial>
    
   </item>
   <item>
@@ -154,10 +154,10 @@
     <price>12.08</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>20</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.33</profitMargin>
-    <Primary>Moderate profit and reasonable stock.</Primary>
-    <Financial>Increase profit through sales.</Financial>
+    <Primary>Lower profit margin, needs promotion</Primary>
+    <Financial>Increase sales volume.</Financial>
    
   </item>
   <item>
@@ -171,10 +171,10 @@
     <price>12.08</price>
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
-    <quantityInStock>2</quantityInStock>
+    <quantityInStock>0</quantityInStock>
     <profitMargin>0.15</profitMargin>
-    <Primary>Very low stock, needs immediate sale.</Primary>
-    <Financial>Clear out the remaining stock.</Financial>
+    <Primary>Lowest profit margin, requires strategic promotion</Primary>
+    <Financial>Clear out stock to make room for more profitable items.</Financial>
    
   </item>
 <item>
