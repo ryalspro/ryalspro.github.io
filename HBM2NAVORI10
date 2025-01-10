@@ -5,10 +5,10 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T11:38:33.465-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T11:43:19.634-05:00</lastBuildDate>
 
   <item>
-    <mediaId></mediaId>
+    <mediaId>1219398</mediaId>
     <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>DD001</guid>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock level.</Primary>
-    <Financial>Increase revenue and reduce inventory holding costs.</Financial>
+    <Primary>High profit margin and available stock.</Primary>
+    <Financial>Significant revenue potential with a 56% profit margin.</Financial>
    
   </item>
   <item>
