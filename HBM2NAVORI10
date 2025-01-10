@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T12:14:22.939-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T12:24:07.079-05:00</lastBuildDate>
 
   <item>
     <mediaId>1219398</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <Primary>High profit margin and moderate stock level.</Primary>
+    <Financial>Maximize profit by moving existing inventory.</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <Primary>High profit margin and good stock levels.</Primary>
+    <Financial>Significant revenue potential.</Financial>
    
   </item>
   <item>
@@ -54,8 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>High stock levels</Primary>
-    <Financial>Reduce stock to optimize shelf space</Financial>
+    <Primary>Large quantity in stock. Requires turnover.</Primary>
+    <Financial>Reduce carrying costs by clearing out inventory</Financial>
    
   </item>
   <item>
@@ -71,8 +71,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <Primary>High profit margin and moderate stock level.</Primary>
+    <Financial>Maximize profit by moving existing inventory.</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <Primary>High profit margin and good stock levels.</Primary>
+    <Financial>Significant revenue potential.</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>High stock levels</Primary>
-    <Financial>Reduce stock to optimize shelf space</Financial>
+    <Primary>Large quantity in stock. Requires turnover.</Primary>
+    <Financial>Reduce carrying costs by clearing out inventory</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <Primary>High profit margin and moderate stock level.</Primary>
+    <Financial>Maximize profit by moving existing inventory.</Financial>
    
   </item>
   <item>
@@ -139,42 +139,42 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <Primary>High profit margin and good stock levels.</Primary>
+    <Financial>Significant revenue potential.</Financial>
    
   </item>
   <item>
-    <mediaId>1339815</mediaId>
-    <title>aprilKynd</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG12</guid>
-    <sku>TRG12</sku>
-    <description>aprilKynd</description>
-    <cost>8.04</cost>
-    <price>12.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>44</quantityInStock>
-    <profitMargin>33</profitMargin>
-    <Primary>High stock levels</Primary>
-    <Financial>Reduce stock to optimize shelf space</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1219398</mediaId>
-    <title>Dank Drops</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>DD001</guid>
-    <sku>DD001</sku>
-    <description>Dank Drops</description>
-    <cost>15.99</cost>
-    <price>12.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>11</quantityInStock>
-    <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock levels</Primary>
-    <Financial>Increase revenue through sales of high-margin product.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
 <item>
