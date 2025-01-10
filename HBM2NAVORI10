@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-10T10:25:38.596-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-10T10:30:33.081-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339812</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>Highest profit margin and nearing expiration.</Primary>
-    <Financial>Maximize profit potential due to high margin.</Financial>
+    <Primary>High profit margin and moderate stock levels</Primary>
+    <Financial>Maximize profit potential from high-margin product</Financial>
    
   </item>
   <item>
@@ -37,25 +37,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>Good profit margin and nearing expiration.</Primary>
-    <Financial>Increase revenue and reduce risk of expiration.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>11</quantityInStock>
-    <profitMargin>57</profitMargin>
-    <Primary>High profit margin and low stock.</Primary>
-    <Financial>Maximize profit with high margin product and sell out fast.</Financial>
+    <Primary>Good profit margin and moderate stock</Primary>
+    <Financial>Increase revenue through popular product</Financial>
    
   </item>
   <item>
@@ -71,8 +54,25 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>Good profit margin and moderate stock.</Primary>
-    <Financial>Increase revenue and maintain steady sales.</Financial>
+    <Primary>Good profit margin with a good amount in stock</Primary>
+    <Financial>Increase revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>11</quantityInStock>
+    <profitMargin>57</profitMargin>
+    <Primary>Good profit margin and low stock</Primary>
+    <Financial>Maximize profit potential from high-margin product</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and moderate stock.</Primary>
-    <Financial>Increase revenue and maintain steady sales.</Financial>
+    <Primary>Good profit margin and good stock level</Primary>
+    <Financial>Increase revenue</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and moderate stock.</Primary>
-    <Financial>Increase revenue and maintain steady sales.</Financial>
+    <Primary>Moderate profit margin and stock level</Primary>
+    <Financial>Maintain consistent sales</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Good profit margin and moderate stock.</Primary>
-    <Financial>Increase revenue and maintain steady sales.</Financial>
+    <Primary>Good stock and decent profit margin</Primary>
+    <Financial>Increase sales volume</Financial>
    
   </item>
   <item>
@@ -139,8 +139,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin and high stock.</Primary>
-    <Financial>Increase revenue and turnover of higher stock product.</Financial>
+    <Primary>Moderate profit margin and high stock</Primary>
+    <Financial>Ensure balanced inventory</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin and high stock.</Primary>
-    <Financial>Increase revenue and turnover of higher stock product.</Financial>
+    <Primary>Lower profit margin but very high stock</Primary>
+    <Financial>Reduce inventory levels</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>Lower profit margin but very high stock.</Primary>
-    <Financial>Reduce overstock and generate some revenue.</Financial>
+    <Primary>Low profit margin, highest stock level</Primary>
+    <Financial>Reduce overstock</Financial>
    
   </item>
 <item>
