@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T12:06:22.794-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T12:08:22.566-05:00</lastBuildDate>
 
   <item>
     <mediaId>13398123</mediaId>
@@ -21,7 +21,7 @@
     <quantityInStock>0</quantityInStock>
     <profitMargin>90</profitMargin>
     <Primary>Highest profit margin product</Primary>
-    <Financial>Maximize revenue due to high profit margin and good shelf life</Financial>
+    <Financial>Maximize revenue through high margin sales</Financial>
    
   </item>
   <item>
@@ -37,8 +37,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin product</Primary>
-    <Financial>Maximize revenue due to high profit margin and good shelf life</Financial>
+    <Primary>High profit margin, nearing expiration</Primary>
+    <Financial>Maximize revenue through high margin sales and reduce risk of spoilage</Financial>
+   
+  </item>
+  <item>
+    <mediaId>121939725</mediaId>
+    <title>Craft Cannabis</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>55</profitMargin>
+    <Primary>Good profit margin, nearing expiration</Primary>
+    <Financial>Increase revenue and reduce risk of spoilage</Financial>
    
   </item>
   <item>
@@ -55,7 +72,7 @@
     <quantityInStock>0</quantityInStock>
     <profitMargin>87</profitMargin>
     <Primary>Very high profit margin, nearing expiration</Primary>
-    <Financial>High revenue potential if sold quickly</Financial>
+    <Financial>Increase revenue and reduce risk of spoilage</Financial>
    
   </item>
   <item>
@@ -71,25 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin, nearing expiration</Primary>
-    <Financial>Good revenue potential if sold quickly</Financial>
-   
-  </item>
-  <item>
-    <mediaId>121939725</mediaId>
-    <title>Craft Cannabis</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG07</guid>
-    <sku>TRG07</sku>
-    <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>32.78</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>0</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>High profit margin, nearing expiration</Primary>
-    <Financial>Good revenue potential if sold quickly</Financial>
+    <Primary>Good profit margin, nearing expiration</Primary>
+    <Financial>Increase revenue and reduce risk of spoilage</Financial>
    
   </item>
   <item>
@@ -106,7 +106,7 @@
     <quantityInStock>0</quantityInStock>
     <profitMargin>57</profitMargin>
     <Primary>Good profit margin, nearing expiration</Primary>
-    <Financial>Good revenue potential if sold quickly</Financial>
+    <Financial>Increase revenue and reduce risk of spoilage</Financial>
    
   </item>
   <item>
@@ -123,58 +123,58 @@
     <quantityInStock>0</quantityInStock>
     <profitMargin>53</profitMargin>
     <Primary>Good profit margin, nearing expiration</Primary>
-    <Financial>Good revenue potential if sold quickly</Financial>
+    <Financial>Increase revenue and reduce risk of spoilage</Financial>
    
   </item>
   <item>
-    <mediaId>1339817</mediaId>
-    <title>Sun Gems</title>
+    <mediaId>112320</mediaId>
+    <title>CBD Honey Sticks 10ct</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG10</guid>
-    <sku>TRG10</sku>
-    <description>Sun Gems</description>
-    <cost>10.69</cost>
-    <price>20.36</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
+    <guid>CBD010</guid>
+    <sku>CBD010</sku>
+    <description>CBD Honey Sticks 10ct</description>
+    <cost>10</cost>
+    <price>24</price>
+    <purchaseDate>2.16.2027</purchaseDate>
+    <expirationDate>6.7.2028</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>47</profitMargin>
-    <Primary>Standard profit margin, nearing expiration</Primary>
-    <Financial>Moderate revenue potential if sold</Financial>
+    <profitMargin>0.58</profitMargin>
+    <Primary>Good profit margin, needs regular promotion</Primary>
+    <Financial>Increase revenue through consistent sales</Financial>
    
   </item>
   <item>
-    <mediaId>13398161</mediaId>
-    <title>Weed Bag</title>
+    <mediaId>1123155</mediaId>
+    <title>Apple Fritter Pre-Roll 1g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG11</guid>
-    <sku>TRG11</sku>
-    <description>Weed Bag</description>
-    <cost>9.36</cost>
-    <price>16.22</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
+    <guid>PRE011</guid>
+    <sku>PRE011</sku>
+    <description>Apple Fritter Pre-Roll 1g</description>
+    <cost>4.75</cost>
+    <price>11.4</price>
+    <purchaseDate>12.6.2027</purchaseDate>
+    <expirationDate>8.4.2028</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>42</profitMargin>
-    <Primary>Standard profit margin, nearing expiration</Primary>
-    <Financial>Moderate revenue potential if sold</Financial>
+    <profitMargin>0.58</profitMargin>
+    <Primary>Good profit margin, needs regular promotion</Primary>
+    <Financial>Increase revenue through consistent sales</Financial>
    
   </item>
   <item>
-    <mediaId>1339815</mediaId>
-    <title>aprilKynd</title>
+    <mediaId>112250</mediaId>
+    <title>CBD Capsules 30ct</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG12</guid>
-    <sku>TRG12</sku>
-    <description>aprilKynd</description>
-    <cost>8.04</cost>
-    <price>16.22</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
+    <guid>CBD002</guid>
+    <sku>CBD002</sku>
+    <description>CBD Capsules 30ct</description>
+    <cost>20</cost>
+    <price>11.4</price>
+    <purchaseDate>4.4.2027</purchaseDate>
+    <expirationDate>9.5.2031</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>33</profitMargin>
-    <Primary>Standard profit margin, nearing expiration</Primary>
-    <Financial>Moderate revenue potential if sold</Financial>
+    <profitMargin>0.58</profitMargin>
+    <Primary>Good profit margin, needs regular promotion</Primary>
+    <Financial>Increase revenue through consistent sales</Financial>
    
   </item>
   
