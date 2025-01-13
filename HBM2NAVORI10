@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T11:45:41.993-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T11:47:10.886-05:00</lastBuildDate>
 
   <item>
     <mediaId>1339815</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>78</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Overstocked item with a reasonable profit margin and nearing expiration.</Primary>
-    <Financial>Reduce inventory holding costs and improve cash flow, and clear before expiry.</Financial>
+    <Primary>High stock level combined with a moderate profit margin and approaching expiration date</Primary>
+    <Financial>Reducing inventory of 30 units will improve cash flow and minimize potential losses due to expiration. </Financial>
    
   </item>
   <item>
