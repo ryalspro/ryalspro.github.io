@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T12:35:47.257-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T12:40:45.256-05:00</lastBuildDate>
 
   <item>
     <mediaId>13398123</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>8.5.2026</expirationDate>
     <quantityInStock>132</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Maximize revenue due to high profit margin.</Financial>
+    <Primary>High profit margin and good stock levels.</Primary>
+    <Financial>High potential for revenue generation due to 90% profit margin.</Financial>
    
   </item>
   <item>
@@ -37,25 +37,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>121</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin with an approaching expiration date.</Primary>
-    <Financial>Maximize revenue and minimize potential loss from expired stock.</Financial>
+    <Primary>Exceptional profit margin and solid stock.</Primary>
+    <Financial>Significant revenue potential due to high profit margin.</Financial>
    
   </item>
   <item>
-    <mediaId>112249</mediaId>
-    <title>CBD Oil Tincture 1000mg</title>
+    <mediaId>13392817</mediaId>
+    <title>OG Kush, Flower 3.5g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD001</guid>
-    <sku>CBD001</sku>
-    <description>CBD Oil Tincture 1000mg</description>
-    <cost>25</cost>
-    <price>62.5</price>
-    <purchaseDate>8.25.2028</purchaseDate>
-    <expirationDate>1.19.2029</expirationDate>
-    <quantityInStock>308</quantityInStock>
-    <profitMargin>100</profitMargin>
-    <Primary>Very high profit margin and ample stock.</Primary>
-    <Financial>Significant revenue potential due to high margins and stock.</Financial>
+    <guid>TRG17</guid>
+    <sku>TRG17</sku>
+    <description>OG Kush, Flower 3.5g</description>
+    <cost>17.69</cost>
+    <price>27.36</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>143</quantityInStock>
+    <profitMargin>87</profitMargin>
+    <Primary>Very high profit margin.</Primary>
+    <Financial>Excellent revenue potential.</Financial>
    
   </item>
   <item>
@@ -71,25 +71,25 @@
     <expirationDate>9.5.2029</expirationDate>
     <quantityInStock>297</quantityInStock>
     <profitMargin>100</profitMargin>
-    <Primary>Very high profit margin and ample stock.</Primary>
-    <Financial>Significant revenue potential due to high margins and stock.</Financial>
+    <Primary>Very high profit margin and high stock levels.</Primary>
+    <Financial>Potential for very high revenue due to high profit margin.</Financial>
    
   </item>
   <item>
-    <mediaId>121939725</mediaId>
-    <title>Craft Cannabis</title>
+    <mediaId>112249</mediaId>
+    <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG07</guid>
-    <sku>TRG07</sku>
-    <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>32.78</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>33</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>Good profit margin with an approaching expiration date.</Primary>
-    <Financial>Minimize losses from expiration and generate revenue.</Financial>
+    <guid>CBD001</guid>
+    <sku>CBD001</sku>
+    <description>CBD Oil Tincture 1000mg</description>
+    <cost>25</cost>
+    <price>62.5</price>
+    <purchaseDate>8.25.2028</purchaseDate>
+    <expirationDate>1.19.2029</expirationDate>
+    <quantityInStock>308</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>Very high profit margin and high stock.</Primary>
+    <Financial>Significant revenue potential.</Financial>
    
   </item>
   <item>
@@ -105,8 +105,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin with an approaching expiration date.</Primary>
-    <Financial>Minimize losses from expiration and generate revenue.</Financial>
+    <Primary>High profit margin with a closer expiration date.</Primary>
+    <Financial>Potential for moderate revenue generation if sold quickly.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>121939725</mediaId>
+    <title>Craft Cannabis</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>33</quantityInStock>
+    <profitMargin>55</profitMargin>
+    <Primary>High profit margin with a closer expiration date.</Primary>
+    <Financial>Moderate revenue potential.</Financial>
    
   </item>
   <item>
@@ -122,25 +139,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>110</quantityInStock>
     <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and an approaching expiration date.</Primary>
-    <Financial>Minimize losses from expiration and generate revenue.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>13398161</mediaId>
-    <title>Weed Bag</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG11</guid>
-    <sku>TRG11</sku>
-    <description>Weed Bag</description>
-    <cost>9.36</cost>
-    <price>16.22</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>77</quantityInStock>
-    <profitMargin>42</profitMargin>
-    <Primary>Good profit margin, needs regular promotion</Primary>
-    <Financial>Generate consistent revenue from a popular accessory.</Financial>
+    <Primary>Good profit margin and moderate stock.</Primary>
+    <Financial>Good revenue potential.</Financial>
    
   </item>
   <item>
@@ -156,25 +156,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin with an approaching expiration date.</Primary>
-    <Financial>Minimize losses from expiration and generate revenue.</Financial>
+    <Primary>Good profit margin and moderate stock levels.</Primary>
+    <Financial>Moderate revenue potential.</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
-    <title>Delivery</title>
+    <mediaId>1339817</mediaId>
+    <title>Sun Gems</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG09</guid>
-    <sku>TRG09</sku>
-    <description>Delivery</description>
-    <cost>12.01</cost>
+    <guid>TRG10</guid>
+    <sku>TRG10</sku>
+    <description>Sun Gems</description>
+    <cost>10.69</cost>
     <price>28.6</price>
-    <purchaseDate>4.4.2024</purchaseDate>
-    <expirationDate>9.5.2025</expirationDate>
-    <quantityInStock>55</quantityInStock>
-    <profitMargin>50</profitMargin>
-    <Primary>Good profit margin, needs regular promotion</Primary>
-    <Financial>Generate consistent revenue from a popular service.</Financial>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>66</quantityInStock>
+    <profitMargin>47</profitMargin>
+    <Primary>Good profit margin and moderate stock.</Primary>
+    <Financial>Moderate revenue potential.</Financial>
    
   </item>
   
