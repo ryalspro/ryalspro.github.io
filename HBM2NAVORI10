@@ -5,8 +5,25 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T12:23:17.943-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T12:23:52.719-05:00</lastBuildDate>
 
+  <item>
+    <mediaId>13392817</mediaId>
+    <title>OG Kush, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG17</guid>
+    <sku>TRG17</sku>
+    <description>OG Kush, Flower 3.5g</description>
+    <cost>17.69</cost>
+    <price>27.36</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>87</profitMargin>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Maximize revenue on high-margin product before expiration.</Financial>
+   
+  </item>
   <item>
     <mediaId>1339812</mediaId>
     <title>Wyld</title>
@@ -21,7 +38,7 @@
     <quantityInStock>22</quantityInStock>
     <profitMargin>90</profitMargin>
     <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on high margin item before expiration</Financial>
+    <Financial>Maximize revenue on high-margin product before expiration.</Financial>
    
   </item>
   <item>
@@ -37,25 +54,8 @@
     <expirationDate>8.5.2026</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and popular product</Primary>
-    <Financial>Significant revenue potential due to high profit margin</Financial>
-   
-  </item>
-  <item>
-    <mediaId>13392817</mediaId>
-    <title>OG Kush, Flower 3.5g</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG17</guid>
-    <sku>TRG17</sku>
-    <description>OG Kush, Flower 3.5g</description>
-    <cost>17.69</cost>
-    <price>27.36</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>22</quantityInStock>
-    <profitMargin>87</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on high margin item before expiration</Financial>
+    <Primary>Very high profit margin</Primary>
+    <Financial>High potential revenue and profit generation.</Financial>
    
   </item>
   <item>
@@ -71,25 +71,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>Good profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on good margin item before expiration</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>22</quantityInStock>
-    <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on good margin item before expiration</Financial>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Maximize revenue on high-margin product before expiration.</Financial>
    
   </item>
   <item>
@@ -105,8 +88,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>Good profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on good margin item before expiration</Financial>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Maximize revenue on high-margin product before expiration.</Financial>
    
   </item>
   <item>
@@ -123,24 +106,24 @@
     <quantityInStock>22</quantityInStock>
     <profitMargin>53</profitMargin>
     <Primary>Good profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on good margin item before expiration</Financial>
+    <Financial>Increase revenue and reduce risk of expiration</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
-    <title>Delivery</title>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG09</guid>
-    <sku>TRG09</sku>
-    <description>Delivery</description>
-    <cost>12.01</cost>
-    <price>24.5</price>
-    <purchaseDate>4.4.2024</purchaseDate>
-    <expirationDate>9.5.2025</expirationDate>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
-    <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and standard inventory</Primary>
-    <Financial>Increase revenue on a standard item</Financial>
+    <profitMargin>57</profitMargin>
+    <Primary>Good profit margin and nearing expiration</Primary>
+    <Financial>Increase revenue and reduce risk of expiration</Financial>
    
   </item>
   <item>
@@ -157,24 +140,41 @@
     <quantityInStock>22</quantityInStock>
     <profitMargin>47</profitMargin>
     <Primary>Good profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue on good margin item before expiration</Financial>
+    <Financial>Increase revenue and reduce risk of expiration</Financial>
    
   </item>
   <item>
-    <mediaId>13398161</mediaId>
-    <title>Weed Bag</title>
+    <mediaId>1123102</mediaId>
+    <title>Apple Fritter, Flower 3.5g</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG11</guid>
-    <sku>TRG11</sku>
-    <description>Weed Bag</description>
-    <cost>9.36</cost>
-    <price>20.36</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
+    <guid>FLW022</guid>
+    <sku>FLW022</sku>
+    <description>Apple Fritter, Flower 3.5g</description>
+    <cost>23</cost>
+    <price>50.6</price>
+    <purchaseDate>12.6.2025</purchaseDate>
+    <expirationDate>8.4.2026</expirationDate>
     <quantityInStock>22</quantityInStock>
-    <profitMargin>42</profitMargin>
-    <Primary>Good profit margin and standard inventory</Primary>
-    <Financial>Increase revenue on a standard item</Financial>
+    <profitMargin>0.54</profitMargin>
+    <Primary>Good profit margin and stable stock</Primary>
+    <Financial>Maintain consistent revenue stream.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112320</mediaId>
+    <title>CBD Honey Sticks 10ct</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD010</guid>
+    <sku>CBD010</sku>
+    <description>CBD Honey Sticks 10ct</description>
+    <cost>10</cost>
+    <price>50.6</price>
+    <purchaseDate>2.16.2027</purchaseDate>
+    <expirationDate>6.7.2028</expirationDate>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>0.58</profitMargin>
+    <Primary>Good profit margin and stable stock</Primary>
+    <Financial>Maintain consistent revenue stream.</Financial>
    
   </item>
   
