@@ -5,25 +5,8 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T12:33:21.796-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T12:35:47.257-05:00</lastBuildDate>
 
-  <item>
-    <mediaId>1339812</mediaId>
-    <title>Wyld</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG15</guid>
-    <sku>TRG15</sku>
-    <description>Wyld</description>
-    <cost>6.39</cost>
-    <price>66.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>121</quantityInStock>
-    <profitMargin>90</profitMargin>
-    <Primary>High profit margin and moderate stock level</Primary>
-    <Financial>Maximize profit through high margin sales</Financial>
-   
-  </item>
   <item>
     <mediaId>13398123</mediaId>
     <title>Girl Scout Cookies, Flower 3.5g</title>
@@ -37,42 +20,59 @@
     <expirationDate>8.5.2026</expirationDate>
     <quantityInStock>132</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and moderate stock level</Primary>
-    <Financial>Maximize profit through high margin sales</Financial>
+    <Primary>High profit margin and good stock levels</Primary>
+    <Financial>Maximize revenue due to high profit margin.</Financial>
    
   </item>
   <item>
-    <mediaId>13392817</mediaId>
-    <title>OG Kush, Flower 3.5g</title>
+    <mediaId>1339812</mediaId>
+    <title>Wyld</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG17</guid>
-    <sku>TRG17</sku>
-    <description>OG Kush, Flower 3.5g</description>
-    <cost>17.69</cost>
-    <price>27.36</price>
+    <guid>TRG15</guid>
+    <sku>TRG15</sku>
+    <description>Wyld</description>
+    <cost>6.39</cost>
+    <price>66.79</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>143</quantityInStock>
-    <profitMargin>87</profitMargin>
-    <Primary>High profit margin and moderate stock level</Primary>
-    <Financial>Maximize profit through high margin sales</Financial>
+    <quantityInStock>121</quantityInStock>
+    <profitMargin>90</profitMargin>
+    <Primary>High profit margin with an approaching expiration date.</Primary>
+    <Financial>Maximize revenue and minimize potential loss from expired stock.</Financial>
    
   </item>
   <item>
-    <mediaId>12193983</mediaId>
-    <title>Dank Drops</title>
+    <mediaId>112249</mediaId>
+    <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>DD001</guid>
-    <sku>DD001</sku>
-    <description>Dank Drops</description>
-    <cost>15.99</cost>
-    <price>36.93</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>22</quantityInStock>
-    <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Reduce potential loss from expired stock</Financial>
+    <guid>CBD001</guid>
+    <sku>CBD001</sku>
+    <description>CBD Oil Tincture 1000mg</description>
+    <cost>25</cost>
+    <price>62.5</price>
+    <purchaseDate>8.25.2028</purchaseDate>
+    <expirationDate>1.19.2029</expirationDate>
+    <quantityInStock>308</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>Very high profit margin and ample stock.</Primary>
+    <Financial>Significant revenue potential due to high margins and stock.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112286</mediaId>
+    <title>CBD Massage Oil 500mg</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>CBD006</guid>
+    <sku>CBD006</sku>
+    <description>CBD Massage Oil 500mg</description>
+    <cost>20</cost>
+    <price>48</price>
+    <purchaseDate>3.15.2008</purchaseDate>
+    <expirationDate>9.5.2029</expirationDate>
+    <quantityInStock>297</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>Very high profit margin and ample stock.</Primary>
+    <Financial>Significant revenue potential due to high margins and stock.</Financial>
    
   </item>
   <item>
@@ -88,25 +88,25 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Reduce potential loss from expired stock</Financial>
+    <Primary>Good profit margin with an approaching expiration date.</Primary>
+    <Financial>Minimize losses from expiration and generate revenue.</Financial>
    
   </item>
   <item>
-    <mediaId>1219396</mediaId>
-    <title>Kanha</title>
+    <mediaId>12193983</mediaId>
+    <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG08</guid>
-    <sku>TRG08</sku>
-    <description>Kanha</description>
-    <cost>13.35</cost>
-    <price>28.6</price>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>44</quantityInStock>
-    <profitMargin>53</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Reduce potential loss from expired stock</Financial>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>56</profitMargin>
+    <Primary>High profit margin with an approaching expiration date.</Primary>
+    <Financial>Minimize losses from expiration and generate revenue.</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>110</quantityInStock>
     <profitMargin>57</profitMargin>
-    <Primary>High profit margin and moderate stock level</Primary>
-    <Financial>Maximize profit through high margin sales</Financial>
+    <Primary>Good profit margin and an approaching expiration date.</Primary>
+    <Financial>Minimize losses from expiration and generate revenue.</Financial>
    
   </item>
   <item>
@@ -139,8 +139,25 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain consistent sales</Financial>
+    <Primary>Good profit margin, needs regular promotion</Primary>
+    <Financial>Generate consistent revenue from a popular accessory.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1219396</mediaId>
+    <title>Kanha</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG08</guid>
+    <sku>TRG08</sku>
+    <description>Kanha</description>
+    <cost>13.35</cost>
+    <price>28.6</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>44</quantityInStock>
+    <profitMargin>53</profitMargin>
+    <Primary>Good profit margin with an approaching expiration date.</Primary>
+    <Financial>Minimize losses from expiration and generate revenue.</Financial>
    
   </item>
   <item>
@@ -151,30 +168,13 @@
     <sku>TRG09</sku>
     <description>Delivery</description>
     <cost>12.01</cost>
-    <price>24.5</price>
+    <price>28.6</price>
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain consistent sales</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339817</mediaId>
-    <title>Sun Gems</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG10</guid>
-    <sku>TRG10</sku>
-    <description>Sun Gems</description>
-    <cost>10.69</cost>
-    <price>24.5</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>66</quantityInStock>
-    <profitMargin>47</profitMargin>
-    <Primary>Good profit margin and moderate stock level</Primary>
-    <Financial>Maintain consistent sales</Financial>
+    <Primary>Good profit margin, needs regular promotion</Primary>
+    <Financial>Generate consistent revenue from a popular service.</Financial>
    
   </item>
   
