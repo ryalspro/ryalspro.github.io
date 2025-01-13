@@ -5,23 +5,23 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T11:25:25.914-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T11:35:57.231-05:00</lastBuildDate>
 
   <item>
-    <mediaId>1339815</mediaId>
+    <mediaId></mediaId>
     <title>aprilKynd</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG12</guid>
     <sku>TRG12</sku>
     <description>aprilKynd</description>
-    <cost>8.04</cost>
-    <price>12.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>78</quantityInStock>
-    <profitMargin>33</profitMargin>
-    <Primary>Moderate stock levels and approaching expiration date, needs promotion to reduce inventory and prevent losses</Primary>
-    <Financial>Potential to increase revenue and avoid write-offs by selling remaining inventory</Financial>
+    <profitMargin></profitMargin>
+    <Primary>High stock level and nearing expiration</Primary>
+    <Financial></Financial>
    
   </item>
   <item>
