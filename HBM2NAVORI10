@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T13:49:39.763-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T13:54:42.454-05:00</lastBuildDate>
 
   <item>
     <mediaId>13398123</mediaId>
@@ -21,7 +21,7 @@
     <quantityInStock>121</quantityInStock>
     <profitMargin>90</profitMargin>
     <Primary>High profit margin and substantial stock</Primary>
-    <Financial>Maximize revenue due to high profit margin</Financial>
+    <Financial>Maximize revenue due to high profit margin and sales potential</Financial>
    
   </item>
   <item>
@@ -38,24 +38,7 @@
     <quantityInStock>110</quantityInStock>
     <profitMargin>90</profitMargin>
     <Primary>High profit margin and substantial stock</Primary>
-    <Financial>Maximize revenue due to high profit margin</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339813</mediaId>
-    <title>Humankynd</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG14</guid>
-    <sku>TRG14</sku>
-    <description>Humankynd</description>
-    <cost>5.39</cost>
-    <price>12.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>99</quantityInStock>
-    <profitMargin>57</profitMargin>
-    <Primary>Good profit margin and substantial stock</Primary>
-    <Financial>Increase revenue and reduce inventory</Financial>
+    <Financial>Maximize revenue due to high profit margin and sales potential</Financial>
    
   </item>
   <item>
@@ -71,8 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>11</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Maximize revenue and prevent loss from expired product</Financial>
+    <Primary>High profit margin and moderate stock levels.</Primary>
+    <Financial>Good revenue potential</Financial>
    
   </item>
   <item>
@@ -88,8 +71,25 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>Good profit margin and limited stock, nearing expiration</Primary>
-    <Financial>Increase revenue and prevent loss from expired product</Financial>
+    <Primary>Good profit margin and moderate stock level.</Primary>
+    <Financial>Increase revenue through targeted advertising</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>99</quantityInStock>
+    <profitMargin>57</profitMargin>
+    <Primary>Good profit margin and good stock level</Primary>
+    <Financial>Increase revenue through advertising</Financial>
    
   </item>
   <item>
@@ -105,8 +105,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin, and nearing expiration</Primary>
-    <Financial>Increase revenue and reduce inventory</Financial>
+    <Primary>Good profit margin and moderate stock level</Primary>
+    <Financial>Increase revenue through advertising</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339818</mediaId>
+    <title>Delivery</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG09</guid>
+    <sku>TRG09</sku>
+    <description>Delivery</description>
+    <cost>12.01</cost>
+    <price>24.5</price>
+    <purchaseDate>4.4.2024</purchaseDate>
+    <expirationDate>9.5.2025</expirationDate>
+    <quantityInStock>44</quantityInStock>
+    <profitMargin>50</profitMargin>
+    <Primary>Good profit margin and moderate stock level</Primary>
+    <Financial>Increase service revenue through advertising</Financial>
    
   </item>
   <item>
@@ -122,25 +139,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Standard profit margin and substantial stock</Primary>
-    <Financial>Increase revenue and maintain inventory turnover</Financial>
-   
-  </item>
-  <item>
-    <mediaId>13398161</mediaId>
-    <title>Weed Bag</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG11</guid>
-    <sku>TRG11</sku>
-    <description>Weed Bag</description>
-    <cost>9.36</cost>
-    <price>16.22</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>66</quantityInStock>
-    <profitMargin>42</profitMargin>
-    <Primary>Good profit margin and substantial stock</Primary>
-    <Financial>Increase revenue and maintain inventory turnover</Financial>
+    <Primary>Standard inventory item with moderate profit margin and stock</Primary>
+    <Financial>Maintain consistent sales and revenue</Financial>
    
   </item>
   <item>
@@ -156,8 +156,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Standard profit margin and substantial stock</Primary>
-    <Financial>Increase revenue and maintain inventory turnover</Financial>
+    <Primary>Standard inventory item with moderate profit margin and stock</Primary>
+    <Financial>Maintain consistent sales and revenue</Financial>
    
   </item>
   <item>
@@ -173,8 +173,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>Lower profit margin and substantial stock</Primary>
-    <Financial>Increase revenue and maintain inventory turnover</Financial>
+    <Primary>Lower profit margin, but high stock levels, needs to be moved</Primary>
+    <Financial>Reduce inventory</Financial>
    
   </item>
   
