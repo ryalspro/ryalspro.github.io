@@ -5,10 +5,10 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T13:18:16.425-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T13:19:51.775-05:00</lastBuildDate>
 
   <item>
-    <mediaId>1339812</mediaId>
+    <mediaId></mediaId>
     <title>Wyld</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG15</guid>
@@ -20,12 +20,12 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>1</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin and nearing expiration date.</Primary>
-    <Financial>Maximize revenue from high margin product before expiration</Financial>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Maximize revenue from a high-margin product before expiration.</Financial>
    
   </item>
   <item>
-    <mediaId>112249</mediaId>
+    <mediaId></mediaId>
     <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>CBD001</guid>
@@ -37,8 +37,8 @@
     <expirationDate>1.19.2029</expirationDate>
     <quantityInStock>1</quantityInStock>
     <profitMargin>100</profitMargin>
-    <Primary>Highest profit margin product.</Primary>
-    <Financial>Maximize revenue from highest margin product.</Financial>
+    <Primary>Extremely high profit margin and good shelf life</Primary>
+    <Financial>Maximize revenue from a high-margin product.</Financial>
    
   </item>
   <item>
