@@ -5,25 +5,8 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-13T12:45:44.460-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-13T12:50:44.192-05:00</lastBuildDate>
 
-  <item>
-    <mediaId>112286</mediaId>
-    <title>CBD Massage Oil 500mg</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD006</guid>
-    <sku>CBD006</sku>
-    <description>CBD Massage Oil 500mg</description>
-    <cost>20</cost>
-    <price>48</price>
-    <purchaseDate>3.15.2008</purchaseDate>
-    <expirationDate>9.5.2029</expirationDate>
-    <quantityInStock>297</quantityInStock>
-    <profitMargin>100</profitMargin>
-    <Primary>High profit margin and substantial stock levels</Primary>
-    <Financial>Maximize revenue from high margin product</Financial>
-   
-  </item>
   <item>
     <mediaId>112249</mediaId>
     <title>CBD Oil Tincture 1000mg</title>
@@ -37,25 +20,8 @@
     <expirationDate>1.19.2029</expirationDate>
     <quantityInStock>308</quantityInStock>
     <profitMargin>100</profitMargin>
-    <Primary>High profit margin and substantial stock levels</Primary>
-    <Financial>Maximize revenue from high margin product</Financial>
-   
-  </item>
-  <item>
-    <mediaId>13398123</mediaId>
-    <title>Girl Scout Cookies, Flower 3.5g</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG16</guid>
-    <sku>TRG16</sku>
-    <description>Girl Scout Cookies, Flower 3.5g</description>
-    <cost>16.39</cost>
-    <price>67.79</price>
-    <purchaseDate>6.24.2024</purchaseDate>
-    <expirationDate>8.5.2026</expirationDate>
-    <quantityInStock>0</quantityInStock>
-    <profitMargin>90</profitMargin>
-    <Primary>High profit margin</Primary>
-    <Financial>Maximize revenue from high margin product</Financial>
+    <Primary>High profit margin and significant stock</Primary>
+    <Financial>Maximize revenue due to high profit margin and current stock levels</Financial>
    
   </item>
   <item>
@@ -71,8 +37,25 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>90</profitMargin>
-    <Primary>High profit margin</Primary>
-    <Financial>Maximize revenue from high margin product</Financial>
+    <Primary>Very high profit margin</Primary>
+    <Financial>Maximize revenue due to high profit margin</Financial>
+   
+  </item>
+  <item>
+    <mediaId>13398123</mediaId>
+    <title>Girl Scout Cookies, Flower 3.5g</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG16</guid>
+    <sku>TRG16</sku>
+    <description>Girl Scout Cookies, Flower 3.5g</description>
+    <cost>16.39</cost>
+    <price>67.79</price>
+    <purchaseDate>6.24.2024</purchaseDate>
+    <expirationDate>8.5.2026</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>90</profitMargin>
+    <Primary>Very high profit margin</Primary>
+    <Financial>Maximize revenue due to high profit margin</Financial>
    
   </item>
   <item>
@@ -88,93 +71,110 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>87</profitMargin>
-    <Primary>High profit margin</Primary>
-    <Financial>Maximize revenue from high margin product</Financial>
+    <Primary>Very high profit margin</Primary>
+    <Financial>Maximize revenue due to high profit margin</Financial>
    
   </item>
   <item>
-    <mediaId>112320</mediaId>
-    <title>CBD Honey Sticks 10ct</title>
+    <mediaId>1339813</mediaId>
+    <title>Humankynd</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD010</guid>
-    <sku>CBD010</sku>
-    <description>CBD Honey Sticks 10ct</description>
-    <cost>10</cost>
-    <price>24</price>
-    <purchaseDate>2.16.2027</purchaseDate>
-    <expirationDate>6.7.2028</expirationDate>
+    <guid>TRG14</guid>
+    <sku>TRG14</sku>
+    <description>Humankynd</description>
+    <cost>5.39</cost>
+    <price>12.79</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>0.58</profitMargin>
-    <Primary>Good profit margin with a decent expiration date</Primary>
-    <Financial>Increase sales of a standard product</Financial>
+    <profitMargin>57</profitMargin>
+    <Primary>Good profit margin</Primary>
+    <Financial>Improve turnover and increase revenue</Financial>
    
   </item>
   <item>
-    <mediaId>1123155</mediaId>
-    <title>Apple Fritter Pre-Roll 1g</title>
+    <mediaId>12193983</mediaId>
+    <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>PRE011</guid>
-    <sku>PRE011</sku>
-    <description>Apple Fritter Pre-Roll 1g</description>
-    <cost>4.75</cost>
-    <price>11.4</price>
-    <purchaseDate>12.6.2027</purchaseDate>
-    <expirationDate>8.4.2028</expirationDate>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>0.58</profitMargin>
-    <Primary>Good profit margin and decent shelf life</Primary>
-    <Financial>Increase sales of a popular product</Financial>
+    <profitMargin>56</profitMargin>
+    <Primary>Good profit margin</Primary>
+    <Financial>Improve turnover and increase revenue</Financial>
    
   </item>
   <item>
-    <mediaId>112238</mediaId>
-    <title>Blue Dream Pre-Roll 1g</title>
+    <mediaId>121939725</mediaId>
+    <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>PRE001</guid>
-    <sku>PRE001</sku>
-    <description>Blue Dream Pre-Roll 1g</description>
-    <cost>4.5</cost>
-    <price>10.8</price>
-    <purchaseDate>2.16.2027</purchaseDate>
-    <expirationDate>6.7.2028</expirationDate>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>0.58</profitMargin>
-    <Primary>Good profit margin and decent shelf life</Primary>
-    <Financial>Increase sales of a standard product</Financial>
+    <profitMargin>55</profitMargin>
+    <Primary>Good profit margin</Primary>
+    <Financial>Improve turnover and increase revenue</Financial>
    
   </item>
   <item>
-    <mediaId>112268</mediaId>
-    <title>Brownies 100mg THC</title>
+    <mediaId>1219396</mediaId>
+    <title>Kanha</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>EDI006</guid>
-    <sku>EDI006</sku>
-    <description>Brownies 100mg THC</description>
-    <cost>13</cost>
-    <price>32.5</price>
-    <purchaseDate>12.6.2028</purchaseDate>
-    <expirationDate>8.4.2029</expirationDate>
+    <guid>TRG08</guid>
+    <sku>TRG08</sku>
+    <description>Kanha</description>
+    <cost>13.35</cost>
+    <price>28.6</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>0.6</profitMargin>
-    <Primary>Good profit margin and long shelf life</Primary>
-    <Financial>Increase sales of a standard edible product</Financial>
+    <profitMargin>53</profitMargin>
+    <Primary>Good profit margin</Primary>
+    <Financial>Improve turnover and increase revenue</Financial>
    
   </item>
   <item>
-    <mediaId>112284</mediaId>
-    <title>Caramels 100mg THC</title>
+    <mediaId>1339818</mediaId>
+    <title>Delivery</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>EDI007</guid>
-    <sku>EDI007</sku>
-    <description>Caramels 100mg THC</description>
-    <cost>12.5</cost>
-    <price>32.5</price>
-    <purchaseDate>2.16.2028</purchaseDate>
-    <expirationDate>6.7.2029</expirationDate>
+    <guid>TRG09</guid>
+    <sku>TRG09</sku>
+    <description>Delivery</description>
+    <cost>12.01</cost>
+    <price>24.5</price>
+    <purchaseDate>4.4.2024</purchaseDate>
+    <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>0.6</profitMargin>
-    <Primary>Good profit margin and long shelf life</Primary>
-    <Financial>Increase sales of a standard edible product</Financial>
+    <profitMargin>50</profitMargin>
+    <Primary>Good profit margin</Primary>
+    <Financial>Improve turnover and increase revenue</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339817</mediaId>
+    <title>Sun Gems</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG10</guid>
+    <sku>TRG10</sku>
+    <description>Sun Gems</description>
+    <cost>10.69</cost>
+    <price>24.5</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>47</profitMargin>
+    <Primary>Good profit margin</Primary>
+    <Financial>Improve turnover and increase revenue</Financial>
    
   </item>
   
