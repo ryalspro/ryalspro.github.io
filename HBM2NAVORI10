@@ -5,10 +5,10 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-14T14:22:58.585-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-14T15:13:26.775-05:00</lastBuildDate>
 
   <item>
-    <mediaId>12193983</mediaId>
+    <mediaId></mediaId>
     <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>DD001</guid>
@@ -16,33 +16,16 @@
     <description>Dank Drops</description>
     <cost>15.99</cost>
     <price>36.93</price>
-    <purchaseDate>8.24.2024</purchaseDate>
+    <purchaseDate></purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration date.</Primary>
-    <Financial>Maximize revenue from high-margin product before expiration.</Financial>
+    <Primary>High profit margin and nearing expiration.</Primary>
+    <Financial>Increase revenue by reducing inventory of high-margin product.</Financial>
    
   </item>
   <item>
-    <mediaId>121939725</mediaId>
-    <title>Craft Cannabis</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG07</guid>
-    <sku>TRG07</sku>
-    <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>32.78</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>33</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock level.</Primary>
-    <Financial>Significant revenue potential with good profit margin.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1219396</mediaId>
+    <mediaId></mediaId>
     <title>Kanha</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG08</guid>
@@ -50,16 +33,16 @@
     <description>Kanha</description>
     <cost>13.35</cost>
     <price>28.6</price>
-    <purchaseDate>8.24.2024</purchaseDate>
+    <purchaseDate></purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and nearing expiration date.</Primary>
-    <Financial>Maximize revenue from high-margin product before expiration.</Financial>
+    <Primary>Good profit margin and nearing expiration.</Primary>
+    <Financial>Increase revenue and reduce risk of loss due to expiration.</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
+    <mediaId></mediaId>
     <title>Delivery</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG09</guid>
@@ -67,16 +50,16 @@
     <description>Delivery</description>
     <cost>12.01</cost>
     <price>24.5</price>
-    <purchaseDate>4.4.2024</purchaseDate>
+    <purchaseDate></purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and solid stock.</Primary>
-    <Financial>Consistent revenue from stable product.</Financial>
+    <Primary>Good stock levels and decent profit margin.</Primary>
+    <Financial>Maintain consistent sales and revenue.</Financial>
    
   </item>
   <item>
-    <mediaId>1339817</mediaId>
+    <mediaId></mediaId>
     <title>Sun Gems</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG10</guid>
@@ -84,50 +67,16 @@
     <description>Sun Gems</description>
     <cost>10.69</cost>
     <price>20.36</price>
-    <purchaseDate>8.24.2024</purchaseDate>
+    <purchaseDate></purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Good profit margin and nearing expiration date.</Primary>
-    <Financial>Maximize revenue from high-margin product before expiration.</Financial>
+    <Primary>High stock and consistent demand.</Primary>
+    <Financial>Increase turnover and revenue.</Financial>
    
   </item>
   <item>
-    <mediaId>13398161</mediaId>
-    <title>Weed Bag</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG11</guid>
-    <sku>TRG11</sku>
-    <description>Weed Bag</description>
-    <cost>9.36</cost>
-    <price>16.22</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>77</quantityInStock>
-    <profitMargin>42</profitMargin>
-    <Primary>Solid profit margin and good stock level.</Primary>
-    <Financial>Consistent revenue from reliable product.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339815</mediaId>
-    <title>aprilKynd</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG12</guid>
-    <sku>TRG12</sku>
-    <description>aprilKynd</description>
-    <cost>8.04</cost>
-    <price>12.08</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>88</quantityInStock>
-    <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin, high stock and nearing expiration date.</Primary>
-    <Financial>Ensure turnover of stock before expiry date.</Financial>
-   
-  </item>
-  <item>
-    <mediaId>1339814</mediaId>
+    <mediaId></mediaId>
     <title>Packwoods</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG13</guid>
@@ -135,46 +84,97 @@
     <description>Packwoods</description>
     <cost>6.71</cost>
     <price>7.93</price>
-    <purchaseDate>4.4.2024</purchaseDate>
+    <purchaseDate></purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>Lower profit margin, but high stock level.</Primary>
-    <Financial>Clear out older stock to make room for new products.</Financial>
+    <Primary>High stock level needing promotion.</Primary>
+    <Financial>Increase sales and clear out stock.</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
-    <title>Delivery</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG09</guid>
-    <sku>TRG09</sku>
-    <description>Delivery</description>
-    <cost>12.01</cost>
-    <price>24.5</price>
-    <purchaseDate>4.4.2024</purchaseDate>
-    <expirationDate>9.5.2025</expirationDate>
-    <quantityInStock>55</quantityInStock>
-    <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and solid stock.</Primary>
-    <Financial>Consistent revenue from stable product.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>121939725</mediaId>
-    <title>Craft Cannabis</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG07</guid>
-    <sku>TRG07</sku>
-    <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>24.5</price>
-    <purchaseDate>6.7.2024</purchaseDate>
-    <expirationDate>10.5.2025</expirationDate>
-    <quantityInStock>33</quantityInStock>
-    <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock level.</Primary>
-    <Financial>Significant revenue potential with good profit margin.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title></title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title></title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
+   
+  </item>
+  <item>
+    <mediaId></mediaId>
+    <title></title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   
