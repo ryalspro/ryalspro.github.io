@@ -5,91 +5,91 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-14T13:29:27.306-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-14T13:37:58.839-05:00</lastBuildDate>
 
   <item>
-    <mediaId>112270</mediaId>
-    <title>CBD Bath Bombs 100mg</title>
+    <mediaId>12193983</mediaId>
+    <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD005</guid>
-    <sku>CBD005</sku>
-    <description>CBD Bath Bombs 100mg</description>
-    <cost>12.5</cost>
-    <price>30</price>
-    <purchaseDate>8.24.2027</purchaseDate>
-    <expirationDate>6.5.2028</expirationDate>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary>Moderate stock levels and nearing mid-point of shelf life. Needs increased sales velocity.</Primary>
-    <Financial>Improve revenue and reduce inventory holding costs.</Financial>
+    <profitMargin>56</profitMargin>
+    <Primary>High profit margin and moderate stock, nearing expiration</Primary>
+    <Financial>Increase revenue and reduce potential loss from expiring stock</Financial>
    
   </item>
   <item>
-    <mediaId>112320</mediaId>
-    <title>CBD Honey Sticks 10ct</title>
+    <mediaId>121939725</mediaId>
+    <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD010</guid>
-    <sku>CBD010</sku>
-    <description>CBD Honey Sticks 10ct</description>
-    <cost>10</cost>
-    <price>24</price>
-    <purchaseDate>2.16.2027</purchaseDate>
-    <expirationDate>6.7.2028</expirationDate>
-    <quantityInStock>22</quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary>Moderate stock levels and nearing mid-point of shelf life. Needs increased sales velocity.</Primary>
-    <Financial>Improve revenue and reduce inventory holding costs.</Financial>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>33</quantityInStock>
+    <profitMargin>55</profitMargin>
+    <Primary>High profit margin and significant stock, approaching expiration date</Primary>
+    <Financial>Increase revenue and prevent losses from expiring stock</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>1219396</mediaId>
+    <title>Kanha</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>TRG08</guid>
+    <sku>TRG08</sku>
+    <description>Kanha</description>
+    <cost>13.35</cost>
+    <price>28.6</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>44</quantityInStock>
+    <profitMargin>53</profitMargin>
+    <Primary>High profit margin with large stock, nearing expiration</Primary>
+    <Financial>Increase revenue and reduce the risk of expiring stock</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>112286</mediaId>
+    <title>CBD Massage Oil 500mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>CBD006</guid>
+    <sku>CBD006</sku>
+    <description>CBD Massage Oil 500mg</description>
+    <cost>20</cost>
+    <price>48</price>
+    <purchaseDate>3.15.2008</purchaseDate>
+    <expirationDate>9.5.2029</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>Highest profit margin but zero stock</Primary>
+    <Financial>Potential for very high revenue if product restocked</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
-    <title></title>
+    <mediaId>112249</mediaId>
+    <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid></guid>
-    <sku></sku>
-    <description></description>
-    <cost></cost>
-    <price></price>
-    <purchaseDate></purchaseDate>
-    <expirationDate></expirationDate>
-    <quantityInStock></quantityInStock>
-    <profitMargin></profitMargin>
-    <Primary></Primary>
-    <Financial></Financial>
+    <guid>CBD001</guid>
+    <sku>CBD001</sku>
+    <description>CBD Oil Tincture 1000mg</description>
+    <cost>25</cost>
+    <price>62.5</price>
+    <purchaseDate>8.25.2028</purchaseDate>
+    <expirationDate>1.19.2029</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>High profit margin with zero quantity</Primary>
+    <Financial>Potential for very high revenue if product restocked</Financial>
    
   </item>
   <item>
