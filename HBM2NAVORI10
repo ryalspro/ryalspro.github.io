@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-14T14:17:28.904-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-14T14:19:18.590-05:00</lastBuildDate>
 
   <item>
     <mediaId>12193983</mediaId>
@@ -14,14 +14,14 @@
     <guid>DD001</guid>
     <sku>DD001</sku>
     <description>Dank Drops</description>
-    <cost>15.99</cost>
-    <price>36.93</price>
+    <cost>$15.99</cost>
+    <price>$36.93</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration</Primary>
-    <Financial>Maximize profit before expiration date</Financial>
+    <Primary>High profit margin and moderate stock levels</Primary>
+    <Financial>Increase revenue and reduce holding costs by promoting a high margin item</Financial>
    
   </item>
   <item>
@@ -31,14 +31,14 @@
     <guid>TRG07</guid>
     <sku>TRG07</sku>
     <description>Craft Cannabis</description>
-    <cost>14.66</cost>
-    <price>32.78</price>
+    <cost>$14.66</cost>
+    <price>$32.78</price>
     <purchaseDate>6.7.2024</purchaseDate>
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock levels</Primary>
-    <Financial>Increase revenue with a popular product</Financial>
+    <Primary>Good profit margin and solid stock levels</Primary>
+    <Financial>Increase revenue by promoting a high-margin product with good inventory</Financial>
    
   </item>
   <item>
@@ -48,14 +48,14 @@
     <guid>TRG08</guid>
     <sku>TRG08</sku>
     <description>Kanha</description>
-    <cost>13.35</cost>
-    <price>28.6</price>
+    <cost>$13.35</cost>
+    <price>$28.60</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and nearing expiration date</Primary>
-    <Financial>Increase sales and reduce risk of expired stock</Financial>
+    <Primary>Strong profit margin with ample stock</Primary>
+    <Financial>Drive sales and reduce inventory with a focus on high-profit items</Financial>
    
   </item>
   <item>
@@ -65,14 +65,14 @@
     <guid>TRG09</guid>
     <sku>TRG09</sku>
     <description>Delivery</description>
-    <cost>12.01</cost>
-    <price>24.5</price>
+    <cost>$12.01</cost>
+    <price>$24.50</price>
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and solid stock</Primary>
-    <Financial>Maintain consistent sales and turnover</Financial>
+    <Primary>Good profit margin with substantial stock</Primary>
+    <Financial>Increase revenue through steady promotions and inventory management</Financial>
    
   </item>
   <item>
@@ -82,14 +82,14 @@
     <guid>TRG10</guid>
     <sku>TRG10</sku>
     <description>Sun Gems</description>
-    <cost>10.69</cost>
-    <price>20.36</price>
+    <cost>$10.69</cost>
+    <price>$20.36</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Good profit margin and high stock levels</Primary>
-    <Financial>Increase sales and reduce inventory</Financial>
+    <Primary>Good stock level, needs regular promotion</Primary>
+    <Financial>Maintain sales momentum and reduce inventory through active promotion</Financial>
    
   </item>
   <item>
@@ -99,14 +99,14 @@
     <guid>TRG11</guid>
     <sku>TRG11</sku>
     <description>Weed Bag</description>
-    <cost>9.36</cost>
-    <price>16.22</price>
+    <cost>$9.36</cost>
+    <price>$16.22</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin and high stock level</Primary>
-    <Financial>Increase sales and maintain stock turnover</Financial>
+    <Primary>High stock level, requires consistent promotion</Primary>
+    <Financial>Ensure consistent sales with high stock items and manage turnover effectively</Financial>
    
   </item>
   <item>
@@ -116,14 +116,14 @@
     <guid>TRG12</guid>
     <sku>TRG12</sku>
     <description>aprilKynd</description>
-    <cost>8.04</cost>
-    <price>12.08</price>
+    <cost>$8.04</cost>
+    <price>$12.08</price>
     <purchaseDate>8.24.2024</purchaseDate>
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin and high stock levels, nearing expiration</Primary>
-    <Financial>Reduce stock levels to avoid losses from expiration</Financial>
+    <Primary>High stock, needs regular turnover</Primary>
+    <Financial>Improve inventory turnover and drive revenue through ongoing promotion</Financial>
    
   </item>
   <item>
@@ -133,14 +133,14 @@
     <guid>TRG13</guid>
     <sku>TRG13</sku>
     <description>Packwoods</description>
-    <cost>6.71</cost>
-    <price>7.93</price>
+    <cost>$6.71</cost>
+    <price>$7.93</price>
     <purchaseDate>4.4.2024</purchaseDate>
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>Lower profit margin but high stock levels</Primary>
-    <Financial>Move inventory and generate some revenue</Financial>
+    <Primary>Very high stock, needs to be moved</Primary>
+    <Financial>Clear out inventory to make space for newer products and minimize holding costs</Financial>
    
   </item>
   <item>
@@ -150,14 +150,14 @@
     <guid>CBD006</guid>
     <sku>CBD006</sku>
     <description>CBD Massage Oil 500mg</description>
-    <cost>20</cost>
-    <price>48</price>
+    <cost>$20.00</cost>
+    <price>$48.00</price>
     <purchaseDate>3.15.2008</purchaseDate>
     <expirationDate>9.5.2029</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>100</profitMargin>
     <Primary>Very high profit margin</Primary>
-    <Financial>move this product at all costs</Financial>
+    <Financial>Maximize revenue with a high-profit margin product</Financial>
    
   </item>
   <item>
@@ -167,14 +167,14 @@
     <guid>CBD001</guid>
     <sku>CBD001</sku>
     <description>CBD Oil Tincture 1000mg</description>
-    <cost>25</cost>
-    <price>48</price>
+    <cost>$25.00</cost>
+    <price>$48.00</price>
     <purchaseDate>8.25.2028</purchaseDate>
     <expirationDate>1.19.2029</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>100</profitMargin>
     <Primary>Very high profit margin</Primary>
-    <Financial>move this product at all costs</Financial>
+    <Financial>Maximize revenue with a high-profit margin product</Financial>
    
   </item>
   
