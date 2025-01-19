@@ -5,176 +5,176 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-19T03:54:08.253-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-19T04:54:12.670-05:00</lastBuildDate>
 
   <item>
-    <mediaId></mediaId>
+    <mediaId>12193983</mediaId>
+    <title>Dank Drops</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>DD001</guid>
+    <sku>DD001</sku>
+    <description>Dank Drops</description>
+    <cost>15.99</cost>
+    <price>36.93</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>22</quantityInStock>
+    <profitMargin>56</profitMargin>
+    <Primary>High profit margin and nearing expiration.</Primary>
+    <Financial>High potential revenue due to good margin and stock.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>121939725</mediaId>
+    <title>Craft Cannabis</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG07</guid>
+    <sku>TRG07</sku>
+    <description>Craft Cannabis</description>
+    <cost>14.66</cost>
+    <price>32.78</price>
+    <purchaseDate>6.7.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>33</quantityInStock>
+    <profitMargin>55</profitMargin>
+    <Primary>High profit margin and significant stock.</Primary>
+    <Financial>Good revenue potential due to margin and stock.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1219396</mediaId>
+    <title>Kanha</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG08</guid>
+    <sku>TRG08</sku>
+    <description>Kanha</description>
+    <cost>13.35</cost>
+    <price>28.6</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>44</quantityInStock>
+    <profitMargin>53</profitMargin>
+    <Primary>Good profit margin and solid stock level.</Primary>
+    <Financial>Steady revenue with good potential.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339818</mediaId>
+    <title>Delivery</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG09</guid>
+    <sku>TRG09</sku>
+    <description>Delivery</description>
+    <cost>12.01</cost>
+    <price>24.5</price>
+    <purchaseDate>4.4.2024</purchaseDate>
+    <expirationDate>9.5.2025</expirationDate>
+    <quantityInStock>55</quantityInStock>
+    <profitMargin>50</profitMargin>
+    <Primary>Standard inventory item needing regular promotion.</Primary>
+    <Financial>Consistent revenue stream.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339817</mediaId>
+    <title>Sun Gems</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG10</guid>
+    <sku>TRG10</sku>
+    <description>Sun Gems</description>
+    <cost>10.69</cost>
+    <price>20.36</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>66</quantityInStock>
+    <profitMargin>47</profitMargin>
+    <Primary>Solid stock with a decent profit margin.</Primary>
+    <Financial>Contributes to overall sales.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>13398161</mediaId>
+    <title>Weed Bag</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG11</guid>
+    <sku>TRG11</sku>
+    <description>Weed Bag</description>
+    <cost>9.36</cost>
+    <price>16.22</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>10.5.2025</expirationDate>
+    <quantityInStock>77</quantityInStock>
+    <profitMargin>42</profitMargin>
+    <Primary>High stock needing turnover.</Primary>
+    <Financial>Consistent sales are needed.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339815</mediaId>
+    <title>aprilKynd</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG12</guid>
+    <sku>TRG12</sku>
+    <description>aprilKynd</description>
+    <cost>8.04</cost>
+    <price>12.08</price>
+    <purchaseDate>8.24.2024</purchaseDate>
+    <expirationDate>6.5.2025</expirationDate>
+    <quantityInStock>88</quantityInStock>
+    <profitMargin>33</profitMargin>
+    <Primary>High stock level and needs regular promotion.</Primary>
+    <Financial>Contributes to overall sales volume.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>1339814</mediaId>
+    <title>Packwoods</title>
+    <link>https://example.com/inventory/FLW001</link>
+    <guid>TRG13</guid>
+    <sku>TRG13</sku>
+    <description>Packwoods</description>
+    <cost>6.71</cost>
+    <price>7.93</price>
+    <purchaseDate>4.4.2024</purchaseDate>
+    <expirationDate>9.5.2025</expirationDate>
+    <quantityInStock>99</quantityInStock>
+    <profitMargin>15</profitMargin>
+    <Primary>High stock level and needs a sales push.</Primary>
+    <Financial>Clearing stock is key.</Financial>
+   
+  </item>
+  <item>
+    <mediaId>112286</mediaId>
     <title>CBD Massage Oil 500mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD_Massage_Oil_500mg</guid>
-    <sku>CBD_Massage_Oil_500mg</sku>
+    <guid>CBD006</guid>
+    <sku>CBD006</sku>
     <description>CBD Massage Oil 500mg</description>
-    <cost>15</cost>
-    <price>45</price>
-    <purchaseDate>2024-11-01</purchaseDate>
-    <expirationDate>2025-12-31</expirationDate>
-    <quantityInStock>120</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>High profit margin and good stock levels.</Primary>
-    <Financial>Significant revenue potential due to high margin and ample stock.</Financial>
+    <cost>20</cost>
+    <price>48</price>
+    <purchaseDate>3.15.2008</purchaseDate>
+    <expirationDate>9.5.2029</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>Highest profit margin item</Primary>
+    <Financial>Highest potential revenue from margin</Financial>
    
   </item>
   <item>
-    <mediaId></mediaId>
+    <mediaId>112249</mediaId>
     <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD_Oil_Tincture_1000mg</guid>
-    <sku>CBD_Oil_Tincture_1000mg</sku>
+    <guid>CBD001</guid>
+    <sku>CBD001</sku>
     <description>CBD Oil Tincture 1000mg</description>
-    <cost>20</cost>
-    <price>60</price>
-    <purchaseDate>2024-11-15</purchaseDate>
-    <expirationDate>2025-12-31</expirationDate>
-    <quantityInStock>150</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>High profit margin and substantial stock.</Primary>
-    <Financial>Large revenue generation potential.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>CBD Bath Bombs 100mg</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD_Bath_Bombs_100mg</guid>
-    <sku>CBD_Bath_Bombs_100mg</sku>
-    <description>CBD Bath Bombs 100mg</description>
-    <cost>8</cost>
-    <price>20</price>
-    <purchaseDate>2024-10-10</purchaseDate>
-    <expirationDate>2025-03-30</expirationDate>
-    <quantityInStock>180</quantityInStock>
-    <profitMargin>0.6</profitMargin>
-    <Primary>Nearing expiration date.</Primary>
-    <Financial>Reduce potential loss from expired product, generate revenue.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>CBD Face Cream 250mg</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD_Face_Cream_250mg</guid>
-    <sku>CBD_Face_Cream_250mg</sku>
-    <description>CBD Face Cream 250mg</description>
-    <cost>12</cost>
-    <price>35</price>
-    <purchaseDate>2024-10-20</purchaseDate>
-    <expirationDate>2025-04-30</expirationDate>
-    <quantityInStock>160</quantityInStock>
-    <profitMargin>0.6571</profitMargin>
-    <Primary>Good profit margin and stock.</Primary>
-    <Financial>High potential for revenue generation.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>CBD Lip Balm 50mg</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD_Lip_Balm_50mg</guid>
-    <sku>CBD_Lip_Balm_50mg</sku>
-    <description>CBD Lip Balm 50mg</description>
-    <cost>3</cost>
-    <price>10</price>
-    <purchaseDate>2024-12-01</purchaseDate>
-    <expirationDate>2025-06-30</expirationDate>
-    <quantityInStock>200</quantityInStock>
-    <profitMargin>0.7</profitMargin>
-    <Primary>Good profit margin and solid stock.</Primary>
-    <Financial>Steady revenue generation opportunity.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>Brownies 100mg THC</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>Brownies_100mg_THC</guid>
-    <sku>Brownies_100mg_THC</sku>
-    <description>Brownies 100mg THC</description>
-    <cost>5</cost>
-    <price>15</price>
-    <purchaseDate>2024-11-01</purchaseDate>
-    <expirationDate>2025-03-15</expirationDate>
-    <quantityInStock>75</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>Nearing expiration date.</Primary>
-    <Financial>Reduce potential loss from expired product, generate revenue.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>Caramels 100mg THC</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>Caramels_100mg_THC</guid>
-    <sku>Caramels_100mg_THC</sku>
-    <description>Caramels 100mg THC</description>
-    <cost>6</cost>
-    <price>18</price>
-    <purchaseDate>2024-10-20</purchaseDate>
-    <expirationDate>2025-04-30</expirationDate>
-    <quantityInStock>100</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>High profit margin and good stock levels.</Primary>
-    <Financial>Significant revenue potential with strong margins.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>Apple Fritter Pre-Roll 1g</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>Apple_Fritter_Pre-Roll_1g</guid>
-    <sku>Apple_Fritter_Pre-Roll_1g</sku>
-    <description>Apple Fritter Pre-Roll 1g</description>
-    <cost>4</cost>
-    <price>12</price>
-    <purchaseDate>2024-12-01</purchaseDate>
-    <expirationDate>2025-07-01</expirationDate>
-    <quantityInStock>130</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>Good profit margin and solid stock.</Primary>
-    <Financial>Steady revenue generation opportunity.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>Blue Dream Pre-Roll 1g</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>Blue_Dream_Pre-Roll_1g</guid>
-    <sku>Blue_Dream_Pre-Roll_1g</sku>
-    <description>Blue Dream Pre-Roll 1g</description>
-    <cost>4</cost>
-    <price>12</price>
-    <purchaseDate>2024-12-10</purchaseDate>
-    <expirationDate>2025-07-10</expirationDate>
-    <quantityInStock>140</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>Good profit margin and solid stock.</Primary>
-    <Financial>Steady revenue generation opportunity.</Financial>
-   
-  </item>
-  <item>
-    <mediaId></mediaId>
-    <title>CBD Capsules 30ct</title>
-    <link>https://example.com/inventory/FLW001</link>
-    <guid>CBD_Capsules_30ct</guid>
-    <sku>CBD_Capsules_30ct</sku>
-    <description>CBD Capsules 30ct</description>
-    <cost>10</cost>
-    <price>12</price>
-    <purchaseDate>2024-10-15</purchaseDate>
-    <expirationDate>2025-05-15</expirationDate>
-    <quantityInStock>100</quantityInStock>
-    <profitMargin>0.6667</profitMargin>
-    <Primary>Good profit margin and stock levels</Primary>
-    <Financial>Steady revenue potential from a popular product.</Financial>
+    <cost>25</cost>
+    <price>48</price>
+    <purchaseDate>8.25.2028</purchaseDate>
+    <expirationDate>1.19.2029</expirationDate>
+    <quantityInStock>0</quantityInStock>
+    <profitMargin>100</profitMargin>
+    <Primary>Highest profit margin item</Primary>
+    <Financial>Highest potential revenue from margin</Financial>
    
   </item>
   
