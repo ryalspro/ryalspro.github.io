@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-18T19:54:27.992-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-18T20:54:16.261-05:00</lastBuildDate>
 
   <item>
     <mediaId>12193983</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration date.</Primary>
-    <Financial>Increase revenue by moving high-margin product before expiration.</Financial>
+    <Primary>High profit margin and moderate stock levels require advertising to ensure turnover before expiration.</Primary>
+    <Financial>Increased sales will maximize profit from a high margin product.</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock levels.</Primary>
-    <Financial>Maximize revenue by promoting a high-margin product.</Financial>
+    <Primary>Good profit margin and stock level, needs regular promotion to maintain sales.</Primary>
+    <Financial>Consistent sales will ensure good revenue.</Financial>
    
   </item>
   <item>
@@ -54,8 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin with significant stock and approaching expiration date.</Primary>
-    <Financial>Increase revenue by selling a large quantity of product.</Financial>
+    <Primary>Good profit margin and higher stock, needs promotion to ensure turnover before expiration</Primary>
+    <Financial>Increased sales will maximize profit from this product</Financial>
    
   </item>
   <item>
@@ -71,8 +71,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Solid profit margin with a good quantity in stock.</Primary>
-    <Financial>Steady revenue generation through regular promotion.</Financial>
+    <Primary>Good profit margin with a larger quantity in stock, needs regular promotion.</Primary>
+    <Financial>Consistent sales to maintain revenue goals.</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Moderate profit margin and high stock levels.</Primary>
-    <Financial>Increase revenue through volume sales.</Financial>
+    <Primary>Moderate profit margin, high stock, needs promotion to ensure turnover before expiration.</Primary>
+    <Financial>Increased sales will contribute to overall revenue goals.</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Consistent sales needed, large quantity in stock.</Primary>
-    <Financial>Steady revenue through regular promotion.</Financial>
+    <Primary>Moderate profit margin with a very high quantity, needs regular promotion</Primary>
+    <Financial>Consistent sales will ensure good revenue.</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Requires regular promotion due to high stock levels and decent profit margin.</Primary>
-    <Financial>Ensure sales through consistent advertising efforts.</Financial>
+    <Primary>Lower profit margin but very high stock, needs promotion to avoid overstock.</Primary>
+    <Financial>Clearing stock will make space for new products.</Financial>
    
   </item>
   <item>
@@ -139,42 +139,42 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>High stock level, promotion needed to move product.</Primary>
-    <Financial>Reduce inventory through active promotion.</Financial>
+    <Primary>Lower profit margin, but very high stock and needs turnover.</Primary>
+    <Financial>Reducing stock levels will free up resources.</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
-    <title>Delivery</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG09</guid>
-    <sku>TRG09</sku>
-    <description>Delivery</description>
-    <cost>12.01</cost>
-    <price>24.5</price>
-    <purchaseDate>4.4.2024</purchaseDate>
-    <expirationDate>9.5.2025</expirationDate>
-    <quantityInStock>55</quantityInStock>
-    <profitMargin>50</profitMargin>
-    <Primary>Solid profit margin with a good quantity in stock.</Primary>
-    <Financial>Steady revenue generation through regular promotion.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   <item>
-    <mediaId>1339817</mediaId>
-    <title>Sun Gems</title>
+    <mediaId></mediaId>
+    <title></title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG10</guid>
-    <sku>TRG10</sku>
-    <description>Sun Gems</description>
-    <cost>10.69</cost>
-    <price>24.5</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
-    <quantityInStock>66</quantityInStock>
-    <profitMargin>47</profitMargin>
-    <Primary>Moderate profit margin and high stock levels.</Primary>
-    <Financial>Increase revenue through volume sales.</Financial>
+    <guid></guid>
+    <sku></sku>
+    <description></description>
+    <cost></cost>
+    <price></price>
+    <purchaseDate></purchaseDate>
+    <expirationDate></expirationDate>
+    <quantityInStock></quantityInStock>
+    <profitMargin></profitMargin>
+    <Primary></Primary>
+    <Financial></Financial>
    
   </item>
   
