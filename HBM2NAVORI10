@@ -5,10 +5,10 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-19T04:54:12.670-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-19T05:54:30.592-05:00</lastBuildDate>
 
   <item>
-    <mediaId>12193983</mediaId>
+    <mediaId></mediaId>
     <title>Dank Drops</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>DD001</guid>
@@ -20,12 +20,12 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and nearing expiration.</Primary>
-    <Financial>High potential revenue due to good margin and stock.</Financial>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Increase revenue by moving high-margin product</Financial>
    
   </item>
   <item>
-    <mediaId>121939725</mediaId>
+    <mediaId></mediaId>
     <title>Craft Cannabis</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG07</guid>
@@ -37,12 +37,12 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and significant stock.</Primary>
-    <Financial>Good revenue potential due to margin and stock.</Financial>
+    <Primary>Good profit margin and stock level</Primary>
+    <Financial>Increase revenue by moving high-margin product</Financial>
    
   </item>
   <item>
-    <mediaId>1219396</mediaId>
+    <mediaId></mediaId>
     <title>Kanha</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG08</guid>
@@ -54,12 +54,12 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>Good profit margin and solid stock level.</Primary>
-    <Financial>Steady revenue with good potential.</Financial>
+    <Primary>Good profit margin and solid stock levels</Primary>
+    <Financial>Increase revenue by moving high-margin product</Financial>
    
   </item>
   <item>
-    <mediaId>1339818</mediaId>
+    <mediaId></mediaId>
     <title>Delivery</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG09</guid>
@@ -71,12 +71,12 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Standard inventory item needing regular promotion.</Primary>
-    <Financial>Consistent revenue stream.</Financial>
+    <Primary>Solid profit margin and stock, needs regular promotion</Primary>
+    <Financial>Maintain consistent revenue stream</Financial>
    
   </item>
   <item>
-    <mediaId>1339817</mediaId>
+    <mediaId></mediaId>
     <title>Sun Gems</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG10</guid>
@@ -88,12 +88,12 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Solid stock with a decent profit margin.</Primary>
-    <Financial>Contributes to overall sales.</Financial>
+    <Primary>Decent profit margin and high stock, needs regular promotion</Primary>
+    <Financial>Maintain consistent revenue stream</Financial>
    
   </item>
   <item>
-    <mediaId>13398161</mediaId>
+    <mediaId></mediaId>
     <title>Weed Bag</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG11</guid>
@@ -105,12 +105,12 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>High stock needing turnover.</Primary>
-    <Financial>Consistent sales are needed.</Financial>
+    <Primary>Moderate profit margin and high stock, needs regular promotion</Primary>
+    <Financial>Maintain consistent revenue stream</Financial>
    
   </item>
   <item>
-    <mediaId>1339815</mediaId>
+    <mediaId></mediaId>
     <title>aprilKynd</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG12</guid>
@@ -122,12 +122,12 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>High stock level and needs regular promotion.</Primary>
-    <Financial>Contributes to overall sales volume.</Financial>
+    <Primary>Moderate profit margin, high stock</Primary>
+    <Financial>Maintain consistent revenue stream</Financial>
    
   </item>
   <item>
-    <mediaId>1339814</mediaId>
+    <mediaId></mediaId>
     <title>Packwoods</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>TRG13</guid>
@@ -139,12 +139,12 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>High stock level and needs a sales push.</Primary>
-    <Financial>Clearing stock is key.</Financial>
+    <Primary>Lower profit margin but high stock levels</Primary>
+    <Financial>Increase sales volume</Financial>
    
   </item>
   <item>
-    <mediaId>112286</mediaId>
+    <mediaId></mediaId>
     <title>CBD Massage Oil 500mg</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>CBD006</guid>
@@ -156,12 +156,12 @@
     <expirationDate>9.5.2029</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>100</profitMargin>
-    <Primary>Highest profit margin item</Primary>
-    <Financial>Highest potential revenue from margin</Financial>
+    <Primary>High profit margin but out of stock</Primary>
+    <Financial>Potential high return</Financial>
    
   </item>
   <item>
-    <mediaId>112249</mediaId>
+    <mediaId></mediaId>
     <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
     <guid>CBD001</guid>
@@ -173,8 +173,8 @@
     <expirationDate>1.19.2029</expirationDate>
     <quantityInStock>0</quantityInStock>
     <profitMargin>100</profitMargin>
-    <Primary>Highest profit margin item</Primary>
-    <Financial>Highest potential revenue from margin</Financial>
+    <Primary>High profit margin but out of stock</Primary>
+    <Financial>Potential high return</Financial>
    
   </item>
   
