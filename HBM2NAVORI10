@@ -5,7 +5,7 @@
   <link>https://example.com/inventory</link>
   <description>Complete inventory listing for cannabis products</description>
   <language>en-us</language>
-  <lastBuildDate>2025-01-19T06:54:27.832-05:00</lastBuildDate>
+  <lastBuildDate>2025-01-19T07:54:24.118-05:00</lastBuildDate>
 
   <item>
     <mediaId>12193983</mediaId>
@@ -20,8 +20,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>22</quantityInStock>
     <profitMargin>56</profitMargin>
-    <Primary>High profit margin and moderate stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Significant revenue potential due to high margin, reducing inventory will improve cash flow.</Financial>
+    <Primary>High profit margin and nearing expiration</Primary>
+    <Financial>Maximize profit before expiration</Financial>
    
   </item>
   <item>
@@ -37,8 +37,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>33</quantityInStock>
     <profitMargin>55</profitMargin>
-    <Primary>High profit margin and good stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Good revenue potential and can improve profit margins if sold before expiration</Financial>
+    <Primary>High profit margin and significant stock</Primary>
+    <Financial>Increase revenue with high profit margin product</Financial>
    
   </item>
   <item>
@@ -54,8 +54,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>44</quantityInStock>
     <profitMargin>53</profitMargin>
-    <Primary>High profit margin and significant stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Good revenue potential with high stock levels</Financial>
+    <Primary>Good profit margin with a high quantity in stock and nearing expiration</Primary>
+    <Financial>Increase sales and reduce risk of loss</Financial>
    
   </item>
   <item>
@@ -71,8 +71,8 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>55</quantityInStock>
     <profitMargin>50</profitMargin>
-    <Primary>Good profit margin and high stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Good revenue potential with high stock levels</Financial>
+    <Primary>Standard inventory item with good profit margin</Primary>
+    <Financial>Maintain consistent sales and turnover</Financial>
    
   </item>
   <item>
@@ -88,8 +88,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>66</quantityInStock>
     <profitMargin>47</profitMargin>
-    <Primary>Moderate profit margin and high stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Good revenue potential with high stock levels</Financial>
+    <Primary>Good stock level needing regular promotion</Primary>
+    <Financial>Increase sales and optimize stock</Financial>
    
   </item>
   <item>
@@ -105,8 +105,8 @@
     <expirationDate>10.5.2025</expirationDate>
     <quantityInStock>77</quantityInStock>
     <profitMargin>42</profitMargin>
-    <Primary>Moderate profit margin and high stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Good revenue potential with high stock levels</Financial>
+    <Primary>Standard inventory needing consistent promotion</Primary>
+    <Financial>Maintain sales momentum</Financial>
    
   </item>
   <item>
@@ -122,8 +122,8 @@
     <expirationDate>6.5.2025</expirationDate>
     <quantityInStock>88</quantityInStock>
     <profitMargin>33</profitMargin>
-    <Primary>Moderate profit margin and very high stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Good revenue potential with very high stock levels</Financial>
+    <Primary>Large stock to reduce</Primary>
+    <Financial>Reduce inventory and improve turnover</Financial>
    
   </item>
   <item>
@@ -139,42 +139,42 @@
     <expirationDate>9.5.2025</expirationDate>
     <quantityInStock>99</quantityInStock>
     <profitMargin>15</profitMargin>
-    <Primary>Lower profit margin but extremely high stock, nearing mid-point of shelf life.</Primary>
-    <Financial>Can increase revenue if sold due to high stock level</Financial>
+    <Primary>High stock item, needs turnover</Primary>
+    <Financial>Reduce inventory and prevent holding costs</Financial>
    
   </item>
   <item>
-    <mediaId>13398123</mediaId>
-    <title>Girl Scout Cookies, Flower 3.5g</title>
+    <mediaId>112286</mediaId>
+    <title>CBD Massage Oil 500mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG16</guid>
-    <sku>TRG16</sku>
-    <description>Girl Scout Cookies, Flower 3.5g</description>
-    <cost>16.39</cost>
-    <price>67.79</price>
-    <purchaseDate>6.24.2024</purchaseDate>
-    <expirationDate>8.5.2026</expirationDate>
+    <guid>CBD006</guid>
+    <sku>CBD006</sku>
+    <description>CBD Massage Oil 500mg</description>
+    <cost>20</cost>
+    <price>48</price>
+    <purchaseDate>3.15.2008</purchaseDate>
+    <expirationDate>9.5.2029</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>90</profitMargin>
-    <Primary>Very high profit margin but out of stock.</Primary>
-    <Financial>Potential high revenue but no current inventory</Financial>
+    <profitMargin>100</profitMargin>
+    <Primary>Very high profit margin but out of stock</Primary>
+    <Financial>Potential high revenue if restocked</Financial>
    
   </item>
   <item>
-    <mediaId>13392817</mediaId>
-    <title>OG Kush, Flower 3.5g</title>
+    <mediaId>112249</mediaId>
+    <title>CBD Oil Tincture 1000mg</title>
     <link>https://example.com/inventory/FLW001</link>
-    <guid>TRG17</guid>
-    <sku>TRG17</sku>
-    <description>OG Kush, Flower 3.5g</description>
-    <cost>17.69</cost>
-    <price>67.79</price>
-    <purchaseDate>8.24.2024</purchaseDate>
-    <expirationDate>6.5.2025</expirationDate>
+    <guid>CBD001</guid>
+    <sku>CBD001</sku>
+    <description>CBD Oil Tincture 1000mg</description>
+    <cost>25</cost>
+    <price>48</price>
+    <purchaseDate>8.25.2028</purchaseDate>
+    <expirationDate>1.19.2029</expirationDate>
     <quantityInStock>0</quantityInStock>
-    <profitMargin>87</profitMargin>
-    <Primary>Very high profit margin but out of stock.</Primary>
-    <Financial>Potential high revenue but no current inventory</Financial>
+    <profitMargin>100</profitMargin>
+    <Primary>Very high profit margin but out of stock</Primary>
+    <Financial>Potential high revenue if restocked</Financial>
    
   </item>
   
